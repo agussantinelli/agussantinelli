@@ -76,24 +76,25 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=agussantinelli&show_icons=true&theme=radical&hide_border=true" 
-    alt="My GitHub stats" 
-  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=agussantinelli&show_icons=true&theme=radical"
+    alt="GitHub stats for agussantinelli"
+/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=radical&hide_border=true" 
-    alt="Top languages" 
-  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=radical"
+    alt="Top languages for agussantinelli"
+/>
 </p>
 
 ---
 
 ## 🧩 Highlighted projects
 
-### 🧮 FinanzApp – Personal Finance Dashboard
+### 🧮 FinanzApp – Personal Finance Dashboard  
+**(Independent personal project)**  
 <p>
 A full personal finance platform focused on the Argentinian context.  
 It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integrating multiple data sources (dollar quotes, crypto, CEDEARs, local/US stocks) into a single dashboard with caching, DTOs and a clean architecture.
@@ -102,88 +103,92 @@ It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integratin
 <ul>
   <li>🖥 Frontend: Next.js + Material UI, dark / neon green theme.</li>
   <li>⚙️ Backend: ASP.NET Core 8 Web API + EF Core + SQL Server/PostgreSQL.</li>
-  <li>📊 Features: asset tracking, quotes aggregation, and domain-driven design.</li>
+  <li>📊 Features: asset tracking, quotes aggregation, domain-driven design.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 Frontend repo</a> •
-  <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 Backend repo</a>
+  <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a> •
+  <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
 </p>
 
 ---
 
-### 🎮 BuyJugador – Gaming Inventory & Sales System
+### 🎮 BuyJugador – Gaming Inventory & Sales System  
+**(Academic group project – UTN FRRO, “Tecnologías de Desarrollo de Software IDE”)**
 <p>
-Academic project for UTN (IDE course): a multi-client inventory and sales system for a gaming hardware store.  
-The solution includes a Blazor WebAssembly web client, a WinForms desktop client, and an ASP.NET Core Web API, all sharing the same domain model and database.
+A multi-client inventory and sales management system for a gaming hardware store.  
+Built as a full-stack academic project using a layered architecture and multiple clients (Web, Desktop, API).
 </p>
 
 <ul>
   <li>🌐 Blazor WASM frontend with dashboards and low-stock alerts.</li>
-  <li>🪟 WinForms desktop app for back-office workflows and reporting.</li>
-  <li>🧱 Clean layered architecture (Domain, Data, Services, API, Clients).</li>
-  <li>📈 Reports with ScottPlot (charts) + PDFsharp (PDF export).</li>
+  <li>🪟 WinForms desktop client for back-office workflows and PDF/PNG reporting.</li>
+  <li>🧱 Architecture: Domain layer, Services, Repositories, DTOs, Web API.</li>
+  <li>📈 Reports using ScottPlot + PDFsharp.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/ProyectoIDE-BuyJugador" target="_blank">🔗 Main repository</a>
+  <a href="https://github.com/agussantinelli/ProyectoIDE-BuyJugador" target="_blank">🔗 BuyJugador – Main repository</a>
 </p>
 
 ---
 
-### 🎫 TicketApp – Event Ticketing Platform (Venta de Entradas)
+### 🎫 TicketApp – Event Ticketing Platform  
+**(Academic group project – UTN FRRO, “Desarrollo de Software”)**
 <p>
-Full ticketing platform for events, with seat maps, role-based flows (user, organiser, admin), and online payments.  
-The system is split into a React + TypeScript frontend and a Node.js + Express + Prisma backend with MySQL.
+Event ticketing system with seat maps, payments, user roles, and admin workflows.  
+Split into a React + TypeScript frontend and a Node.js + Express + Prisma backend.
 </p>
 
 <ul>
-  <li>🧭 Frontend: React (Vite), Context API, protected routes, Stripe & MercadoPago integration, PDF ticket generation.</li>
-  <li>🗄 Backend: Node.js + Express + Prisma ORM, JWT auth, role protection, webhooks for Stripe/MercadoPago.</li>
-  <li>🧪 Testing: Vitest + Playwright on the frontend, Jest + Supertest on the backend.</li>
+  <li>🧭 Frontend: React (Vite), Context API, seat selection, protected routes.</li>
+  <li>🗄 Backend: Node.js + Express + Prisma ORM, JWT roles, Stripe/MP webhooks.</li>
+  <li>🧪 Testing: Vitest, Playwright, Jest, Supertest.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 Frontend repo (team)</a> •
-  <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 Backend repo (team)</a>
+  <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a> •
+  <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>
 </p>
 
 ---
 
-### 💰 ImpulsaMe – Java Crowdfunding Platform
+### 💰 ImpulsaMe – Java Crowdfunding Platform  
+**(Academic group project – UTN FRRO, “Lenguaje de Programación Java”)**
 <p>
-Crowdfunding web application built with “classic” Java web technologies.  
-Users can create, discover and fund projects. Admins moderate content, approve projects and manage the platform.  
-Includes Stripe payments in ARS and role-based access control.
+Crowdfunding platform built with classic Java web technologies (Servlets + JSP).  
+Includes Stripe payments, role management, project moderation, and session-based auth.
 </p>
 
 <ul>
-  <li>🌐 Web: Java Servlets + JSP + JSTL, running on Apache Tomcat.</li>
-  <li>🗄 Persistence: MySQL + custom JDBC DAO layer.</li>
-  <li>🧱 Architecture: three-tier (Presentation – Control – Data Access).</li>
-  <li>💳 Payments: Stripe Checkout integration, UUID-based tracking for payment attempts.</li>
+  <li>🌐 Web layer: Java Servlets + JSP + JSTL on Apache Tomcat.</li>
+  <li>🗄 Persistence: MySQL + custom JDBC DAO + handcrafted SQL queries.</li>
+  <li>🧱 Architecture: presentation, control, and data access layers.</li>
+  <li>💳 Stripe Checkout integration with UUID-based validation.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/martin-ratti/ProyectoJava-Crowdfunding" target="_blank">🔗 Project repository (team)</a>
+  <a href="https://github.com/martin-ratti/ProyectoJava-Crowdfunding" target="_blank">🔗 ImpulsaMe – Java Crowdfunding Platform</a>
 </p>
 
 ---
 
-### 🏀 Promiedos NBA (Work in progress)
+### 🏀 Promiedos NBA (Work in progress)  
+**(Independent personal project)**  
 <p>
-A long-term idea: a modern stats and info platform for the NBA, fully in Spanish.  
-The goal is to provide live scores, advanced player stats (PPG, APG, BPG, SPG, stocks), historical data (MVPs, All-Star, Hall of Fame), and rich static pages for each franchise, including history, arena photos and cultural background.
+A modern NBA statistics platform fully in Spanish.  
+Includes live scores, player stats (PPG, APG, RPG, BPG, SPG, stocks), historical awards, franchise pages, and arena photos.
 </p>
 
 <ul>
-  <li>Frontend (planned): <strong>Astro + TypeScript</strong>, modern UI, SEO-friendly.</li>
-  <li>Backend (planned): <strong>Node.js + Express + MySQL</strong>, designed to later extend to other leagues (EuroLeague, ACB, LNB, G League, Olympics, etc.).</li>
+  <li>Frontend (planned): <strong>Astro + TypeScript</strong></li>
+  <li>Backend (planned): <strong>Node.js + Express + MySQL</strong></li>
+  <li>Future scope: EuroLeague, ACB, G-League, LNB Argentina, Olympics, etc.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/Promiedos-NBA-FrontEnd" target="_blank">🔗 Promiedos NBA FrontEnd</a> •
-  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA BackEnd</a>
+  <a href="https://github.com/agussantinelli/Promiedos-NBA-FrontEnd" target="_blank">🔗 Promiedos NBA – FrontEnd</a> •
+  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
 ---
@@ -194,4 +199,4 @@ If you’re working on backend-heavy systems, financial apps, sports data, or fu
 feel free to reach out — I’m always open to learning, collaborating and contributing.
 
 - 📧 Email: **agustinsantinelli@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/agustin-santinelli-a60639300](https://www.linkedin.com/in/agustin-santinelli-a60639300)
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/agustin-santinelli-a60639300)
