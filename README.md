@@ -89,7 +89,7 @@ It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integratin
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a> •
+  <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a>   •
   <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
 </p>
 
@@ -129,7 +129,7 @@ Split into a React + TypeScript frontend and a Node.js + Express + Prisma backen
 </ul>
 
 <p>
-  <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a> •
+  <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a>   •
   <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>
 </p>
 
@@ -169,8 +169,8 @@ Includes live scores, player stats (PPG, APG, RPG, BPG, SPG, stocks), historical
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/Promiedos-NBA-FrontEnd" target="_blank">🔗 Promiedos NBA – FrontEnd</a> •
-  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
+  <a href="https://github.com/agussantinelli/Promiedos-NBA-FrontEnd" target="_blank">🔗 Promiedos NBA – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank"> 🔗 Promiedos NBA – BackEnd</a>
 </p>
 
 ---
