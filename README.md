@@ -57,6 +57,7 @@
 ### Databases & Data Access
 - **SQL Server**, **MySQL**, **PostgreSQL**
 - **Entity Framework Core**
+- **Prisma**
 - Custom **JDBC** DAO layer
 - Query optimization, reporting queries (ADO.NET, raw SQL)
 
