@@ -180,5 +180,5 @@ Includes live scores, player stats (PPG, APG, RPG, BPG, SPG, stocks), historical
 If you’re working on backend-heavy systems, financial apps, sports data, or full-stack projects with TypeScript / .NET / Java,  
 feel free to reach out — I’m always open to learning, collaborating and contributing.
 
-- 📧 Email: **agustinsantinelli@gmail.com**  
+- 📧 Email: agustinsantinelli@gmail.com
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/agustin-santinelli-a60639300)
