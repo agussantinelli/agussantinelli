@@ -67,7 +67,7 @@
 - Swagger / OpenAPI, Postman
 
 ### Other
-- Stripe & MercadoPago integrations  
+- Stripe integration
 - JWT authentication, role-based authorization  
 - Report generation (PDF, charts) with tools like **PDFsharp** and **ScottPlot**
 
