@@ -25,7 +25,6 @@
 - 🌍 Based in **Rosario, Argentina**.  
 - 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, SQL and modern frontend frameworks.  
 - 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).  
-- 🇬🇧 I hold a **Cambridge B2 First Certificate in English**, and I’m comfortable communicating in English, both written and spoken.  
 - 🚀 Currently building projects around:
   - financial dashboards,
   - ticketing systems,
@@ -79,7 +78,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=agussantinelli&show_icons=true&theme=radical&hide_border=true" 
-    alt="Agustín's GitHub stats" 
+    alt="My GitHub stats" 
   />
 </p>
 
@@ -145,7 +144,7 @@ The system is split into a React + TypeScript frontend and a Node.js + Express +
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/FrontEnd-Venta-de-Entradas" target="_blank">🔗 Frontend repo</a> •
+  <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 Frontend repo (team)</a> •
   <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 Backend repo (team)</a>
 </p>
 
