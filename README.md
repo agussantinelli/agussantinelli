@@ -85,7 +85,7 @@ It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integratin
 
 <ul>
   <li>🖥 Frontend: Next.js + Material UI, dark / neon green theme.</li>
-  <li>⚙️ Backend: ASP.NET Core 8 Web API + EF Core + SQL Server/PostgreSQL.</li>
+  <li>⚙️ Backend: ASP.NET Core 8 Web API + EF Core + SQL Server.</li>
   <li>📊 Features: asset tracking, quotes aggregation, domain-driven design.</li>
 </ul>
 
