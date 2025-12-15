@@ -132,6 +132,8 @@ Split into a React + TypeScript frontend and a Node.js + Express + Prisma backen
 <p>
   <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a>   •
   <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>
+  <a href="https://github.com/valenpeppi/tp" target="_blank">🔗 TicketApp – Repositorio Raíz</a>
+
 </p>
 
 ---
