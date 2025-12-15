@@ -125,7 +125,7 @@ Split into a React + TypeScript frontend and a Node.js + Express + Prisma backen
 
 <ul>
   <li>🧭 Frontend: React (Vite), Context API, seat selection, protected routes.</li>
-  <li>🗄 Backend: Node.js + Express + Prisma ORM, JWT roles, Stripe/MP webhooks.</li>
+  <li>🗄 Backend: Node.js + Express + Prisma ORM, JWT roles, Stripe webhooks.</li>
   <li>🧪 Testing: Vitest, Playwright, Jest, Supertest.</li>
 </ul>
 
