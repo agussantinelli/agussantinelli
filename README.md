@@ -109,6 +109,7 @@ Scalable ticketing system with seat mapping and role-based access control.
 
 <p>
   <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a>   •
+  <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>   •
   <a href="https://github.com/valenpeppi/tp" target="_blank">🔗 TicketApp – Root Repo</a>
 </p>
 
