@@ -26,9 +26,9 @@
 - 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, SQL and modern frontend frameworks.  
 - 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).  
 - 🚀 Currently building projects around:
+  - smart mobility and parking reservations,
   - financial dashboards,
   - ticketing systems,
-  - inventory and reporting tools,
   - and sports / NBA stats platforms.
 
 ---
@@ -36,57 +36,38 @@
 ## 🛠 Tech stack & skills
 
 ### Languages
-- **TypeScript**, **JavaScript**
-- **C#**, **Java**
-- **Python**
-- **SQL**
-- (also some **Smalltalk** from university 😊)
+- **TypeScript**, **JavaScript**, **C#**, **Java**, **Python**, **SQL** (and some Smalltalk 😊)
 
 ### Backend & APIs
-- **Node.js**, **Express.js**
-- **ASP.NET Core Web API**
-- **.NET 8 / .NET Framework**
-- REST API design, DTOs, domain services, layered architectures
+- **Node.js (Express)**, **ASP.NET Core Web API**, **.NET 8**
+- **Architecture:** Clean Architecture, Layered design, DTOs, Domain-Driven Design (DDD)
 
-### Frontend
-- **React**, **Next.js**
-- **Blazor WebAssembly**
-- Classic **Java Servlets + JSP + JSTL**
-- HTML5, CSS3
+### Frontend & Mobile
+- **React**, **Next.js**, **React Native**, **Blazor WebAssembly**
+- HTML5, CSS3, Tailwind CSS, Material UI
 
 ### Databases & Data Access
-- **SQL Server**, **MySQL**, **PostgreSQL**
-- **Entity Framework Core**
-- **Prisma**
-- Custom **JDBC** DAO layer
-- Query optimization, reporting queries (ADO.NET, raw SQL)
+- **PostgreSQL**, **SQL Server**, **MySQL**
+- **ORM:** Prisma, Entity Framework Core, Custom JDBC DAO
 
-### Tools, Dev & Testing
-- **Git & GitHub**
-- **Maven**, **npm**
-- **Jest**, **Vitest**, **Playwright**, **Supertest**
-- Swagger / OpenAPI, Postman
-
-### Other
-- Stripe integration
-- JWT authentication, role-based authorization  
-- Report generation (PDF, charts) with tools like **PDFsharp** and **ScottPlot**
+### Tools & Testing
+- **Monorepo:** Turborepo
+- **Testing:** Jest, Vitest, Playwright, Supertest
+- **Dev:** Docker, Git, Maven, npm, Postman
 
 ---
 
 ## 🧩 Highlighted projects
 
 ### 🧮 FinanzApp – Personal Finance Dashboard  
-**(Independent personal project)**  
-<p>
-A full personal finance platform focused on the Argentinian context.  
-It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integrating multiple data sources (dollar quotes, crypto, CEDEARs, local/US stocks) into a single dashboard with caching, DTOs and a clean architecture.
+**(Independent personal project)** <p>
+Full personal finance platform with a focus on the Argentinian market (caching quotes for dollars, CEDEARs, and stocks).
 </p>
 
 <ul>
-  <li>🖥 Frontend: Next.js + Material UI, dark / neon green theme.</li>
-  <li>⚙️ Backend: ASP.NET Core 8 Web API + EF Core + SQL Server.</li>
-  <li>📊 Features: asset tracking, quotes aggregation, domain-driven design.</li>
+  <li>🖥 <strong>Frontend:</strong> Next.js + Material UI (Dark/Neon theme).</li>
+  <li>⚙️ <strong>Backend:</strong> ASP.NET Core 8 + EF Core + SQL Server.</li>
+  <li>📊 <strong>Logic:</strong> DTOs, aggregation services, and domain-driven design.</li>
 </ul>
 
 <p>
@@ -97,17 +78,15 @@ It combines a modern Next.js frontend with an ASP.NET Core 8 backend, integratin
 ---
 
 ### 🎮 BuyJugador – Gaming Inventory & Sales System  
-**(Academic group project – UTN FRRO, “Tecnologías de Desarrollo de Software IDE”)**
+**(Academic group project – UTN FRRO)**
 <p>
-A multi-client inventory and sales management system for a gaming hardware store.  
-Built as a full-stack academic project using a layered architecture and multiple clients (Web, Desktop, API).
+Multi-client system (Web, Desktop, API) for gaming hardware store management.
 </p>
 
 <ul>
-  <li>🌐 Blazor WASM frontend with dashboards and low-stock alerts.</li>
-  <li>🪟 WinForms desktop client for back-office workflows and PDF/PNG reporting.</li>
-  <li>🧱 Architecture: Domain layer, Services, Repositories, DTOs, Web API.</li>
-  <li>📈 Reports using ScottPlot + PDFsharp.</li>
+  <li>🌐 <strong>Web:</strong> Blazor WASM with low-stock alerts.</li>
+  <li>🪟 <strong>Desktop:</strong> WinForms for back-office and PDF reporting.</li>
+  <li>🧱 <strong>Architecture:</strong> Layered design: Domain, Services, Repositories.</li>
 </ul>
 
 <p>
@@ -117,58 +96,65 @@ Built as a full-stack academic project using a layered architecture and multiple
 ---
 
 ### 🎫 TicketApp – Event Ticketing Platform  
-**(Academic group project – UTN FRRO, “Desarrollo de Software”)**
+**(Academic group project – UTN FRRO)**
 <p>
-Event ticketing system with seat maps, payments, user roles, and admin workflows.  
-Split into a React + TypeScript frontend and a Node.js + Express + Prisma backend.
+Scalable ticketing system with seat mapping and role-based access control.
 </p>
 
 <ul>
-  <li>🧭 Frontend: React (Vite), Context API, seat selection, protected routes.</li>
-  <li>🗄 Backend: Node.js + Express + Prisma ORM, JWT roles, Stripe webhooks.</li>
-  <li>🧪 Testing: Vitest, Playwright, Jest, Supertest.</li>
+  <li>🧭 <strong>Frontend:</strong> React + TypeScript, Context API.</li>
+  <li>🗄 <strong>Backend:</strong> Node.js + Prisma, JWT Auth, Stripe Webhooks.</li>
+  <li>🧪 <strong>Quality:</strong> Intensive testing with Vitest and Playwright.</li>
 </ul>
 
 <p>
   <a href="https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – FrontEnd</a>   •
-  <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>   •
-  <a href="https://github.com/valenpeppi/tp" target="_blank">🔗 TicketApp – Repositorio Raíz</a>
-
+  <a href="https://github.com/valenpeppi/tp" target="_blank">🔗 TicketApp – Root Repo</a>
 </p>
 
 ---
 
 ### 💰 ImpulsaMe – Java Crowdfunding Platform  
-**(Academic group project – UTN FRRO, “Lenguaje de Programación Java”)**
+**(Academic group project – UTN FRRO)**
 <p>
-Crowdfunding platform built with classic Java web technologies (Servlets + JSP).  
-Includes Stripe payments, role management, project moderation, and session-based auth.
+Crowdfunding platform using classic robust Java technologies.
 </p>
 
 <ul>
-  <li>🌐 Web layer: Java Servlets + JSP + JSTL on Apache Tomcat.</li>
-  <li>🗄 Persistence: MySQL + custom JDBC DAO + handcrafted SQL queries.</li>
-  <li>🧱 Architecture: presentation, control, and data access layers.</li>
-  <li>💳 Stripe Checkout integration with UUID-based validation.</li>
+  <li>🌐 <strong>Web:</strong> Java Servlets + JSP + JSTL on Tomcat.</li>
+  <li>🗄 <strong>Persistence:</strong> MySQL + Handcrafted JDBC DAO layer.</li>
+  <li>💳 <strong>Payments:</strong> Stripe Checkout integration.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/martin-ratti/ProyectoJava-Crowdfunding" target="_blank">🔗 ImpulsaMe – Java Crowdfunding Platform</a>
+  <a href="https://github.com/martin-ratti/ProyectoJava-Crowdfunding" target="_blank">🔗 ImpulsaMe – Java Platform</a>
 </p>
 
 ---
-
-### 🏀 Promiedos NBA (Work in progress)  
-**(Independent personal project)**  
-<p>
-A modern NBA statistics platform fully in Spanish.  
-Includes live scores, player stats (PPG, APG, RPG, BPG, SPG, stocks), historical awards, franchise pages, and arena photos.
+### 🚗 EstacionAR – Smart Parking & Reservations  
+**(Work in Progress – Group Project)** <p>
+A high-end urban mobility infrastructure for Argentina. Designed with scalability in mind to connect parking providers with drivers in real-time, eliminating urban friction.
 </p>
 
 <ul>
-  <li>Frontend (planned): <strong>Astro + TypeScript</strong></li>
-  <li>Backend (planned): <strong>Node.js + Express + MySQL</strong></li>
-  <li>Future scope: EuroLeague, ACB, G-League, LNB Argentina, Olympics, etc.</li>
+  <li>🛠 <strong>Stack:</strong> React Native, Node.js, Express, PostgreSQL & Prisma.</li>
+  <li>🏗 <strong>Architecture:</strong> Strict Clean Architecture within a Turborepo Monorepo.</li>
+  <li>⚡ <strong>Features:</strong> Google Maps API (Geo), MercadoPago (Payments), Socket.io (Real-time) & Zustand.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/EstacionAR" target="_blank">🔗 EstacionAR – Main Repository</a>
+</p>
+
+---
+### 🏀 Promiedos NBA  
+**(Work in Progress – Independent personal project)** <p>
+A modern NBA statistics platform fully in Spanish with live data and historical tracking.
+</p>
+
+<ul>
+  <li>🚀 <strong>Tech:</strong> Astro (planned), Node.js, Express, MySQL.</li>
+  <li>📊 <strong>Scope:</strong> Live scores, advanced player stocks, and international leagues.</li>
 </ul>
 
 <p>
@@ -180,8 +166,5 @@ Includes live scores, player stats (PPG, APG, RPG, BPG, SPG, stocks), historical
 
 ## 🤝 Let’s connect
 
-If you’re working on backend-heavy systems, financial apps, sports data, or full-stack projects with TypeScript / .NET / Java,  
-feel free to reach out — I’m always open to learning, collaborating and contributing.
-
-- 📧 Email: **agustinsantinelli@gmail.com** 
-- 💼 LinkedIn: [**Profile**](https://www.linkedin.com/in/agustin-santinelli-a60639300)
+- 📧 Email: <strong>agustinsantinelli@gmail.com</strong>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/agustin-santinelli-a60639300" target="_blank"><strong>Agustín Santinelli</strong></a>
