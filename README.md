@@ -77,24 +77,6 @@ Full personal finance platform with a focus on the Argentinian market (caching q
 
 ---
 
-### 🎮 BuyJugador – Gaming Inventory & Sales System  
-**(Academic group project – UTN FRRO)**
-<p>
-Multi-client system (Web, Desktop, API) for gaming hardware store management.
-</p>
-
-<ul>
-  <li>🌐 <strong>Web:</strong> Blazor WASM with low-stock alerts.</li>
-  <li>🪟 <strong>Desktop:</strong> WinForms for back-office and PDF reporting.</li>
-  <li>🧱 <strong>Architecture:</strong> Layered design: Domain, Services, Repositories.</li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/ProyectoIDE-BuyJugador" target="_blank">🔗 BuyJugador – Main repository</a>
-</p>
-
----
-
 ### 🎫 TicketApp – Event Ticketing Platform  
 **(Academic group project – UTN FRRO)**
 <p>
@@ -112,6 +94,26 @@ Scalable ticketing system with seat mapping and role-based access control.
   <a href="https://github.com/valenpeppi/BackEnd-Venta-de-Entradas" target="_blank">🔗 TicketApp – BackEnd</a>   •
   <a href="https://github.com/valenpeppi/tp" target="_blank">🔗 TicketApp – Root Repo</a>
 </p>
+
+---
+
+### 🎮 BuyJugador – Gaming Inventory & Sales System  
+**(Academic group project – UTN FRRO)**
+<p>
+Multi-client system (Web, Desktop, API) for gaming hardware store management.
+</p>
+
+<ul>
+  <li>🌐 <strong>Web:</strong> Blazor WASM with low-stock alerts.</li>
+  <li>🪟 <strong>Desktop:</strong> WinForms for back-office and PDF reporting.</li>
+  <li>🧱 <strong>Architecture:</strong> Layered design: Domain, Services, Repositories.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/ProyectoIDE-BuyJugador" target="_blank">🔗 BuyJugador – Main repository</a>
+</p>
+
+
 
 ---
 
