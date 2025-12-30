@@ -53,7 +53,7 @@
 ### Tools & Testing
 - **Monorepo:** Turborepo
 - **Testing:** Jest, Vitest, Playwright, Supertest
-- **Dev:** Docker, Git, Maven, npm, Postman
+- **Dev:** Git, Maven, npm
 
 ---
 
