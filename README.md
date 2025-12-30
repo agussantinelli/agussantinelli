@@ -41,11 +41,11 @@
 - **TypeScript**, **JavaScript**, **C#**, **Java**, **Python**, **SQL** (and some Smalltalk 😊)
 
 ### Backend & APIs
-- **Node.js (Express)**, **ASP.NET Core Web API**, **.NET 8**
+- **Node.js (Express)**, **ASP.NET Core Web API**, **.NET 8**, **Spring Boot 3**
 - **Architecture:** Clean Architecture, Layered design, DTOs, Domain-Driven Design (DDD)
 
 ### Frontend & Mobile
-- **React**, **Next.js**, **React Native**, **Blazor WebAssembly**
+- **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
 - HTML5, CSS3, Tailwind CSS, Material UI
 
 ### Databases & Data Access
@@ -56,7 +56,6 @@
 - **Monorepo:** Turborepo
 - **Testing:** Jest, Vitest, Playwright, Supertest
 - **Dev:** Git, Maven, npm
-
 ---
 
 ## 🧩 Highlighted projects
