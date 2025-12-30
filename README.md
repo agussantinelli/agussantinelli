@@ -23,13 +23,15 @@
 
 - 🎓 **Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
-- 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, SQL and modern frontend frameworks.
+- 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, **Java**, SQL and modern frontend frameworks.
 - 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).
-- 🚀 Currently building projects around:
-  - smart mobility and parking reservations,
-  - financial dashboards,
-  - ticketing systems,
-  - and sports / NBA stats platforms.
+- 🚀 **My portfolio highlights & current builds:**
+  - 🎓 **Academic Ecosystems:** Modernizing university management with **Sysacad Next**.
+  - 🚗 **Smart Mobility:** Real-time parking infrastructure with **EstacionAR**.
+  - 🏀 **Sports Analytics:** Live NBA statistics & tracking with **Promiedos NBA**.
+  - 🧮 **FinTech:** Personal finance dashboard focused on the local market with **FinanzApp**.
+  - 🎫 **Event Systems:** Scalable ticketing platforms like **TicketApp**.
+  - 🛒 **Management Solutions:** Inventory systems (**BuyJugador**) and Crowdfunding (**ImpulsaMe**).
 
 ---
 
