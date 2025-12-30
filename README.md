@@ -150,6 +150,25 @@ A high-end urban mobility infrastructure for Argentina. Designed with scalabilit
 </p>
 
 ---
+
+### 🎓 Sysacad Next – University Management System
+**(Work in Progress – Independent Reengineering)** <p>
+A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Angular 17+ (Signals), Java Spring Boot 3, PostgreSQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture (API) & Standalone Components (SPA).</li>
+  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security & Mobile First design.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/Sysacad-Next-FrontEnd" target="_blank">🔗 Sysacad Next – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/Sysacad-Next-Backend" target="_blank"> 🔗 Sysacad Next – BackEnd</a>
+</p>
+
+---
+
 ### 🏀 Promiedos NBA  
 **(Work in Progress – Independent personal project)** <p>
 A modern NBA statistics platform fully in Spanish with live data and historical tracking.
