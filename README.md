@@ -21,10 +21,10 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 Third-year **Systems Engineering** student at **UTN-FRRO**.  
-- 🌍 Based in **Rosario, Argentina**.  
-- 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, SQL and modern frontend frameworks.  
-- 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).  
+- 🎓 **Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
+- 🌍 Based in **Rosario, Argentina**.
+- 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, SQL and modern frontend frameworks.
+- 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).
 - 🚀 Currently building projects around:
   - smart mobility and parking reservations,
   - financial dashboards,
