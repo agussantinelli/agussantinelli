@@ -60,21 +60,20 @@
 
 ## 🧩 Highlighted projects
 
-### 🧮 FinanzApp – Personal Finance Dashboard  
+### 🧮 FinanzApp – Investment & Asset Management Dashboard   
 **(Independent personal project)** <p>
-Full personal finance platform with a focus on the Argentinian market (caching quotes for dollars, CEDEARs, and stocks).
+A comprehensive solution to track personal assets in the complex Argentine financial ecosystem. It centralizes portfolio performance by integrating real-time market data, handling multi-currency conversion (ARS/USD), and providing detailed analytics on CEDEARs and Stocks.
 </p>
 
 <ul>
-  <li>🖥 <strong>Frontend:</strong> Next.js + Material UI (Dark/Neon theme).</li>
-  <li>⚙️ <strong>Backend:</strong> ASP.NET Core 8 + EF Core + SQL Server.</li>
-  <li>📊 <strong>Logic:</strong> DTOs, aggregation services, and domain-driven design.</li>
+  <li>🖥 <strong>Frontend:</strong> Next.js + Material UI. Features a responsive <strong>Neon/Dark Mode</strong> UI with interactive charts for asset distribution and history.</li>
+  <li>⚙️ <strong>Backend Engineering:</strong> ASP.NET Core 8 Web API built with <strong>Clean Architecture</strong>. Implements <strong>Background Services</strong> (HostedService) to fetch and cache external market quotes, minimizing latency and API rate limits.</li>
+  <li>📊 <strong>Core Logic:</strong> Domain-Driven Design (DDD) principles, CQRS-lite approach using DTOs, and heavy use of <strong>Memory Caching</strong> for high-performance data retrieval.</li>
 </ul>
 
 <p>
   <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a>   •
   <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
-</p>
 
 ---
 
