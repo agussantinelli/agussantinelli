@@ -26,12 +26,12 @@
 - 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, **Java**, SQL and modern frontend frameworks.
 - 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).
 - 🚀 **My portfolio highlights & current builds:**
-  - 🎓 **Academic Ecosystems:** Modernizing university management with **Sysacad Next**.
-  - 🚗 **Smart Mobility:** Real-time parking infrastructure with **EstacionAR**.
-  - 🏀 **Sports Analytics:** Live NBA statistics & tracking with **Promiedos NBA**.
   - 🧮 **FinTech:** Personal finance dashboard focused on the local market with **FinanzApp**.
   - 🎫 **Event Systems:** Scalable ticketing platforms like **TicketApp**.
   - 🛒 **Management Solutions:** Inventory systems (**BuyJugador**) and Crowdfunding (**ImpulsaMe**).
+  - 🎓 **Academic Ecosystems:** Modernizing university management with **Sysacad Next**.
+  - 🚗 **Smart Mobility:** Real-time parking infrastructure with **EstacionAR**.
+  - 🏀 **Sports Analytics:** Live NBA statistics & tracking with **Promiedos NBA**.
 
 ---
 
