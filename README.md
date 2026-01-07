@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Agustín Santinelli</h1>
 
 <p align="center">
-  Third-year <strong>Systems Engineering</strong> student from Rosario, Argentina.<br/>
+  <strong>Information Systems Engineering</strong> student from Rosario, Argentina.<br/>
   Passionate about <strong>software engineering</strong>, <strong>clean architectures</strong>, and <strong>data-driven apps</strong>.
 </p>
 
