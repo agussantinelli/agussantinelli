@@ -152,14 +152,15 @@ A high-end urban mobility infrastructure for Argentina. Designed with scalabilit
 ---
 
 ### 🎓 Sysacad Next – University Management System
-**(Work in Progress – Independent Reengineering)** <p>
-A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking.
+**(Work in Progress – Independent Reengineering)**<p>
+  A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking, focusing on a reactive and frictionless user experience.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Angular 17+ (Signals), Java Spring Boot 3, PostgreSQL.</li>
-  <li>🏗 <strong>Architecture:</strong> Clean Architecture (API) & Standalone Components (SPA).</li>
-  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security & Mobile First design.</li>
+  <li>🛠 <strong>Stack:</strong> Angular 18+ (Signals & Control Flow), Java Spring Boot 3.5+, PostgreSQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & Standalone Components (Frontend SPA).</li>
+  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security (with BootId session invalidation) & Mobile First design.</li>
+  <li>🎨 <strong>UX/UI:</strong> Adaptive Dark Mode, Centralized Alert System, and Dual-Modal confirmation flows.</li>
 </ul>
 
 <p>
