@@ -66,7 +66,7 @@
 
 <ul>
   <li>🛠 <strong>Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ (C#) & PostgreSQL.</li>
-  <li>🏗 <strong>Architecture:</strong> Clean Architecture with a CQRS-lite approach and hybrid rendering (SSR/SSG).</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture with an optimized data access approach and hybrid rendering (SSR/SSG).</li>
   <li>⚡ <strong>Features:</strong> Multi-asset management, real-time market data caching, and automated Excel imports with pre-validation logic.</li>
   <li>🛡️ <strong>Security & Logic:</strong> Google Identity OAuth 2.0, reCAPTCHA v2 protection, and Zod-based strict schema validation for all financial payloads.</li>
   <li>🤖 <strong>Advanced UX:</strong> FinanzAI (intelligent assistant), interactive Chart.js dashboards, and a premium Neon-Dark theme with optimized accessibility.</li>
@@ -124,7 +124,7 @@
 ### 🎮 BuyJugador – Gaming Inventory & Sales System  
 **(Academic group project – UTN FRRO)**
 <p>
-  A high-efficiency enterprise resource planning (ERP) system tailored for the gaming and electronic retail sector. This multi-client ecosystem features a robust architecture designed to synchronize inventory, sales, and administrative tasks across different platforms. By unifying business logic between Web and Desktop interfaces, it provides a seamless management experience that optimizes stock accuracy and accelerates the sales cycle for high-volume retailers.
+  A high-efficiency management system tailored for the gaming and electronic retail sector. This multi-client ecosystem features a robust architecture designed to synchronize inventory, sales, and administrative tasks across different platforms. By unifying business logic between Web and Desktop interfaces, it provides a seamless management experience that optimizes stock accuracy and accelerates the sales cycle for high-volume retailers.
 </p>
 
 <ul>
