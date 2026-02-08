@@ -61,19 +61,21 @@
 ## 🧩 Highlighted projects
 
 ### 🧮 FinanzApp – Investment & Asset Management Dashboard   
-**(Independent personal project)** <p>
-A comprehensive solution to track personal assets in the complex Argentine financial ecosystem. It centralizes portfolio performance by integrating real-time market data, handling multi-currency conversion (ARS/USD), and providing detailed analytics on CEDEARs and Stocks.
+**(Independent personal project)**
+<p>
+  The definitive wealth dashboard for the Argentine investor. FinanzApp provides a consolidated, real-time view of all personal assets—from stocks to crypto—applying precise currency conversions (ARS/USD) tailored to the local market's unique complexity.
 </p>
 
 <ul>
-  <li>🖥 <strong>Frontend:</strong> Next.js + Material UI. Features a responsive <strong>Neon/Dark Mode</strong> UI with interactive charts for asset distribution and history.</li>
-  <li>⚙️ <strong>Backend Engineering:</strong> ASP.NET Core 8 Web API built with <strong>Clean Architecture</strong>. Implements <strong>Background Services</strong> (HostedService) to fetch and cache external market quotes, minimizing latency and API rate limits.</li>
-  <li>📊 <strong>Core Logic:</strong> Domain-Driven Design (DDD) principles, CQRS-lite approach using DTOs, and heavy use of <strong>Memory Caching</strong> for high-performance data retrieval.</li>
+  <li>� <strong>Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ & PostgreSQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture + Domain-Driven Design (DDD) with high-performance caching and hybrid rendering (SSR/SSG).</li>
+  <li>⚡ <strong>Features:</strong> FinanzAI assistant, automated Excel imports with AI validation, real-time multi-currency valuation & Neon-Dark premium UX.</li>
 </ul>
 
 <p>
   <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a>   •
   <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
+</p>
 
 ---
 
@@ -85,7 +87,7 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 <ul>
   <li>🛠 <strong>Stack:</strong> Angular 19+ (Signals & Signals Queries), Java Spring Boot 3.5.9, PostgreSQL.</li>
   <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & modern SPA (Standalone Components, Signals & Control Flow).</li>
-  <li>⚡ <strong>High-End Features:</strong> Real-time enrollments with smart validation, Interactive Curriculum Map, JWT + BootId security & Mobile First responsive design.</li>
+  <li>⚡ <strong>Features:</strong> Real-time enrollments with smart validation, Interactive Curriculum Map, JWT + BootId security & Mobile First responsive design.</li>
 </ul>
 
 <p>
