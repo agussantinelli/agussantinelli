@@ -38,19 +38,19 @@
 ## 🛠 Tech stack & skills
 
 ### Languages
-- **TypeScript**, **JavaScript**, **C#**, **Java**, **Python**, **SQL** (and some Smalltalk 😊)
+- **TypeScript**, **JavaScript**, **C#**, **Java**, **SQL**, **HTML**, **CSS**
 
 ### Backend & APIs
-- **Node.js (Express)**, **ASP.NET Core Web API**, **.NET 8**, **Spring Boot 3**
+- **Node.js (Express)**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
 - **Architecture:** Clean Architecture, Layered design, DTOs, Domain-Driven Design (DDD)
 
 ### Frontend & Mobile
 - **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
-- HTML5, CSS3, Tailwind CSS, Material UI
+- Tailwind CSS, Material UI, Shadcn/ui
 
 ### Databases & Data Access
 - **PostgreSQL**, **SQL Server**, **MySQL**
-- **ORM:** Prisma, Entity Framework Core, Custom JDBC DAO
+- **ORM:** Prisma, Entity Framework Core, Custom JDBC DAO, Hibernate
 
 ### Tools & Testing
 - **Monorepo:** Turborepo
