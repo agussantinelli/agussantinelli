@@ -79,14 +79,13 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 
 ### 🎓 Sysacad Next – University Management System
 **(Independent Reengineering)**<p>
-  A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking, focusing on a reactive and frictionless user experience.
+  A full-scale reengineering of the university academic portal designed to <strong>eliminate bureaucratic friction</strong>. This high-performance ecosystem modernizes enrollments and academic tracking with a focus on real-time responsiveness and a frictionless student experience.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Angular 18+ (Signals & Control Flow), Java Spring Boot 3.5+, PostgreSQL.</li>
-  <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & Standalone Components (Frontend SPA).</li>
-  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security (with BootId session invalidation) & Mobile First design.</li>
-  <li>🎨 <strong>UX/UI:</strong> Adaptive Dark Mode, Centralized Alert System, and Dual-Modal confirmation flows.</li>
+  <li>🛠 <strong>Stack:</strong> Angular 19+ (Signals & Signals Queries), Java Spring Boot 3.5.9, PostgreSQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & modern SPA (Standalone Components, Signals & Control Flow).</li>
+  <li>⚡ <strong>High-End Features:</strong> Real-time enrollments with smart validation, Interactive Curriculum Map, JWT + BootId security & Mobile First responsive design.</li>
 </ul>
 
 <p>
