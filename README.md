@@ -21,17 +21,15 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 **Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
+- 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
-- 💬 I enjoy working on **full-stack projects**, mixing **TypeScript**, **.NET**, **Node.js**, **Java**, SQL and modern frontend frameworks.
-- 🧠 Comfortable switching between **academic projects** and **production-like architectures** (layered design, DTOs, services, testing).
-- 🚀 **My portfolio highlights & current builds:**
-  - 🧮 **FinTech:** Personal finance dashboard focused on the local market with **FinanzApp**.
-  - 🎫 **Event Systems:** Scalable ticketing platforms like **TicketApp**.
-  - 🛒 **Management Solutions:** Inventory systems (**BuyJugador**) and Crowdfunding (**ImpulsaMe**).
-  - 🎓 **Academic Ecosystems:** Modernizing university management with **Sysacad Next**.
-  - 🚗 **Smart Mobility:** Real-time parking infrastructure with **EstacionAR**.
-  - 🏀 **Sports Analytics:** Live NBA statistics & tracking with **Promiedos NBA**.
+- 🧠 I specialize in building **high-performance systems** using **Clean Architecture** and **Domain-Driven Design (DDD)**. My goal is to transform complex business requirements into scalable, mission-critical software.
+- 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
+- 🚀 **Strategic focus areas:**
+  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
+  - 🎓 **Academic Infrastructure:** Modernizing university management with **Sysacad Next**.
+  - 🚗 **Urban & Event Systems:** Developing scalable solutions for mobility (**EstacionAR**) and ticketing (**TicketApp**).
+  - 🛒 **Business Logic:** Crafting efficient management platforms for retail (**BuyJugador**) and social funding (**ImpulsaMe**).
 
 ---
 
