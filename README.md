@@ -138,13 +138,13 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 ### 💰 ImpulsaMe – Java Crowdfunding Platform  
 **(Academic group project – UTN FRRO)**
 <p>
-Crowdfunding platform using classic robust Java technologies.
+  A secure community-driven crowdfunding platform designed to power innovative ideas through social funding. Features a robust moderation workflow and role-based access control to ensure a safe and transparent donation ecosystem.
 </p>
 
 <ul>
-  <li>🌐 <strong>Web:</strong> Java Servlets + JSP + JSTL on Tomcat.</li>
-  <li>🗄 <strong>Persistence:</strong> MySQL + Handcrafted JDBC DAO layer.</li>
-  <li>💳 <strong>Payments:</strong> Stripe Checkout integration.</li>
+  <li>🛠 <strong>Stack:</strong> Jakarta EE 10 (Servlets & JSP), Apache Tomcat 10.1+, MySQL & Maven.</li>
+  <li>🏗 <strong>Architecture:</strong> Strict MVC implementation with Jakarta SSR, DAO pattern for optimized persistence, and RBAC security filters.</li>
+  <li>⚡ <strong>Features:</strong> Stripe Checkout integration, project moderation workflow, real-time evolution tracking & anti-fraud donation guards.</li>
 </ul>
 
 <p>
