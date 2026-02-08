@@ -23,7 +23,7 @@
 
 - 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
-- 🧠 I specialize in building **high-performance systems** using **Clean Architecture** and **Domain-Driven Design (DDD)**. My goal is to transform complex business requirements into scalable, mission-critical software.
+- 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
 - 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
 - 🚀 **Strategic focus areas:**
   - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
@@ -40,7 +40,7 @@
 
 ### Backend & APIs
 - **Node.js (Express)**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
-- **Architecture:** Clean Architecture, Layered design, DTOs, Domain-Driven Design (DDD)
+- **Architecture:** Clean Architecture, Layered design, DTOs
 
 ### Frontend & Mobile
 - **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
@@ -66,7 +66,7 @@
 
 <ul>
   <li>🛠 <strong>Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ (C#) & PostgreSQL.</li>
-  <li>🏗 <strong>Architecture:</strong> Clean Architecture + Domain-Driven Design (DDD) with a CQRS-lite approach and hybrid rendering (SSR/SSG).</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture with a CQRS-lite approach and hybrid rendering (SSR/SSG).</li>
   <li>⚡ <strong>Features:</strong> Multi-asset management, real-time market data caching, and automated Excel imports with pre-validation logic.</li>
   <li>🛡️ <strong>Security & Logic:</strong> Google Identity OAuth 2.0, reCAPTCHA v2 protection, and Zod-based strict schema validation for all financial payloads.</li>
   <li>🤖 <strong>Advanced UX:</strong> FinanzAI (intelligent assistant), interactive Chart.js dashboards, and a premium Neon-Dark theme with optimized accessibility.</li>
