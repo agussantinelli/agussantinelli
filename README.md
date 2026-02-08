@@ -130,7 +130,7 @@ Crowdfunding platform using classic robust Java technologies.
 </ul>
 
 <p>
-  <a href="https://github.com/martin-ratti/ProyectoJava-Crowdfunding" target="_blank">🔗 ImpulsaMe – Java Platform</a>
+  <a href="https://github.com/agussantinelli/ImpulsaMe-Java" target="_blank">🔗 ImpulsaMe – Java Platform</a>
 </p>
 
 ---
