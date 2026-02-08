@@ -98,13 +98,13 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 ### 🎫 TicketApp – Event Ticketing Platform  
 **(Academic group project – UTN FRRO)**
 <p>
-Scalable ticketing system with seat mapping and role-based access control.
+  A high-end marketplace for events providing a seamless experience for both attendees and organizers. This scalable ticketing platform features interactive seat mapping and secure role-based access control.
 </p>
 
 <ul>
-  <li>🧭 <strong>Frontend:</strong> React + TypeScript, Context API.</li>
-  <li>🗄 <strong>Backend:</strong> Node.js + Prisma, JWT Auth, Stripe Webhooks.</li>
-  <li>🧪 <strong>Quality:</strong> Intensive testing with Vitest and Playwright.</li>
+  <li>🛠 <strong>Stack:</strong> React 19.1+ (Vite & TypeScript), Node.js 18+ (Express), Prisma 6+ (MySQL & Zod).</li>
+  <li>🏗 <strong>Architecture:</strong> Layered design (Domain, Services, Repositories) following Clean Architecture principles.</li>
+  <li>⚡ <strong>Features:</strong> Stripe Checkout, Real-time seat selection, PDF ticket generation & AI-integrated support.</li>
 </ul>
 
 <p>
