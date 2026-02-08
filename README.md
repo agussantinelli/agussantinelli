@@ -118,13 +118,13 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 ### 🎮 BuyJugador – Gaming Inventory & Sales System  
 **(Academic group project – UTN FRRO)**
 <p>
-Multi-client system (Web, Desktop, API) for gaming hardware store management.
+  A high-efficiency inventory and sales management system for gaming and electronic retail. This multi-client ecosystem features a robust architecture with shared logic between Web (Blazor) and Desktop (WinForms) applications.
 </p>
 
 <ul>
-  <li>🌐 <strong>Web:</strong> Blazor WASM with low-stock alerts.</li>
-  <li>🪟 <strong>Desktop:</strong> WinForms for back-office and PDF reporting.</li>
-  <li>🧱 <strong>Architecture:</strong> Layered design: Domain, Services, Repositories.</li>
+  <li>🛠 <strong>Stack:</strong> .NET 8 (Blazor WASM, WinForms & Minimal APIs), EF Core 8.0, SQL Server.</li>
+  <li>🏗 <strong>Architecture:</strong> Layered Clean Architecture with Repository + UnitOfWork patterns & shared ApiClient.</li>
+  <li>⚡ <strong>Features:</strong> Multi-client support, Real-time stock control, PDF/PNG business reports with ScottPlot & JWT Auth.</li>
 </ul>
 
 <p>
