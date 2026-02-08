@@ -170,19 +170,21 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 
 ---
 
-### 🏀 Promiedos NBA  
-**(Work in Progress – Independent personal project)** <p>
-A modern NBA statistics platform fully in Spanish with live data and historical tracking.
+### 🏀 Promiedos NBA – Advanced Statistics Platform  
+**(Independent personal project)**
+<p>
+  The first modern NBA statistics platform fully in Spanish, centralizing live scores, advanced performance metrics, and historical tracking. Inspired by global benchmarks like Basketball Reference, it provides a clean, fast, and highly organized "wiki visual" for basketball fans.
 </p>
 
 <ul>
-  <li>🚀 <strong>Tech:</strong> Astro (planned), Node.js, Express, MySQL.</li>
-  <li>📊 <strong>Scope:</strong> Live scores, advanced player stocks, and international leagues.</li>
+  <li>� <strong>Stack:</strong> Astro (SSR/SSG & TypeScript), Node.js (Express), MySQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Modular REST API with Astro Islands for optimized SEO and performance-first hybrid rendering.</li>
+  <li>⚡ <strong>Features:</strong> Live game scores, advanced player stocks (STL + BLK), historical award tracking & franchise specific "wikis".</li>
 </ul>
 
 <p>
   <a href="https://github.com/agussantinelli/Promiedos-NBA-FrontEnd" target="_blank">🔗 Promiedos NBA – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank"> 🔗 Promiedos NBA – BackEnd</a>
+  <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
 ---
