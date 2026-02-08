@@ -163,7 +163,7 @@
 
 ---
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
-**(Academic group project – UTN FRRO)**
+**(Work in progress - Academic group project)**
 <p>
   A high-end urban mobility platform transforming how drivers find and reserve parking in high-density urban areas. This mobile-first ecosystem digitalizes traditional parking operations, eliminating physical friction through real-time geocoding and seamless payment integration. Designed to optimize urban flow, the platform connects parking providers with drivers through a highly responsive interface, ensuring that the process of finding and paying for parking is as frictionless as possible in modern Argentine cities.
 </p>
@@ -183,7 +183,7 @@
 ---
 
 ### 🏀 Promiedos NBA – Advanced Statistics Platform  
-**(Independent personal project)**
+**(Work in progress - Independent personal project)**
 <p>
   The first modern NBA statistics platform fully in Spanish, centralizing live scores, advanced performance metrics, and historical tracking into a single, high-performance web interface. Inspired by global benchmarks like Basketball Reference and ESPN Stats, it addresses the lack of high-quality basketball data in the Spanish-speaking market. The platform provides a clean, fast, and highly organized "wiki visual" for fans, allowing for deep dives into player histories, franchise records, and real-time game evolution.
 </p>
