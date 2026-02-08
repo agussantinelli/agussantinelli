@@ -77,6 +77,25 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 
 ---
 
+### 🎓 Sysacad Next – University Management System
+**(Independent Reengineering)**<p>
+  A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking, focusing on a reactive and frictionless user experience.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Angular 18+ (Signals & Control Flow), Java Spring Boot 3.5+, PostgreSQL.</li>
+  <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & Standalone Components (Frontend SPA).</li>
+  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security (with BootId session invalidation) & Mobile First design.</li>
+  <li>🎨 <strong>UX/UI:</strong> Adaptive Dark Mode, Centralized Alert System, and Dual-Modal confirmation flows.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/Sysacad-Next-FrontEnd" target="_blank">🔗 Sysacad Next – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/Sysacad-Next-Backend" target="_blank"> 🔗 Sysacad Next – BackEnd</a>
+</p>
+
+---
+
 ### 🎫 TicketApp – Event Ticketing Platform  
 **(Academic group project – UTN FRRO)**
 <p>
@@ -147,25 +166,6 @@ A high-end urban mobility infrastructure for Argentina. Designed with scalabilit
 
 <p>
   <a href="https://github.com/agussantinelli/EstacionAR" target="_blank">🔗 EstacionAR – Main Repository</a>
-</p>
-
----
-
-### 🎓 Sysacad Next – University Management System
-**(Work in Progress – Independent Reengineering)**<p>
-  A comprehensive modernization of the university academic portal. Replaces legacy infrastructure with a high-performance ecosystem to streamline enrollments, exams, and academic tracking, focusing on a reactive and frictionless user experience.
-</p>
-
-<ul>
-  <li>🛠 <strong>Stack:</strong> Angular 18+ (Signals & Control Flow), Java Spring Boot 3.5+, PostgreSQL.</li>
-  <li>🏗 <strong>Architecture:</strong> Clean Architecture (Backend) & Standalone Components (Frontend SPA).</li>
-  <li>⚡ <strong>Features:</strong> Real-time Validation, Interactive Curriculum Map, JWT Security (with BootId session invalidation) & Mobile First design.</li>
-  <li>🎨 <strong>UX/UI:</strong> Adaptive Dark Mode, Centralized Alert System, and Dual-Modal confirmation flows.</li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/Sysacad-Next-FrontEnd" target="_blank">🔗 Sysacad Next – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/Sysacad-Next-Backend" target="_blank"> 🔗 Sysacad Next – BackEnd</a>
 </p>
 
 ---
