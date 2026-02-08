@@ -65,7 +65,7 @@
 </p>
 
 <ul>
-  <li>� <strong>Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ & PostgreSQL.</li>
+  <li>🛠 <strong>Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ & PostgreSQL.</li>
   <li>🏗 <strong>Architecture:</strong> Clean Architecture + Domain-Driven Design (DDD) with high-performance caching and hybrid rendering (SSR/SSG).</li>
   <li>⚡ <strong>Features:</strong> FinanzAI assistant, automated Excel imports with AI validation, real-time multi-currency valuation & Neon-Dark premium UX.</li>
 </ul>
@@ -177,7 +177,7 @@
 </p>
 
 <ul>
-  <li>� <strong>Stack:</strong> Astro (SSR/SSG & TypeScript), Node.js (Express), MySQL.</li>
+  <li>🛠 <strong>Stack:</strong> Astro (SSR/SSG & TypeScript), Node.js (Express), MySQL.</li>
   <li>🏗 <strong>Architecture:</strong> Modular REST API with Astro Islands for optimized SEO and performance-first hybrid rendering.</li>
   <li>⚡ <strong>Features:</strong> Live game scores, advanced player stocks (STL + BLK), historical award tracking & franchise specific "wikis".</li>
 </ul>
