@@ -152,19 +152,20 @@ A comprehensive solution to track personal assets in the complex Argentine finan
 </p>
 
 ---
-### 🚗 EstacionAR – Smart Parking & Reservations  
-**(Work in Progress – Group Project)** <p>
-A high-end urban mobility infrastructure for Argentina. Designed with scalability in mind to connect parking providers with drivers in real-time, eliminating urban friction.
+### 🚗 EstacionAR – Smart Parking Ecosystem  
+**(Academic group project – UTN FRRO)**
+<p>
+  A high-end urban mobility platform transforming how drivers find and reserve parking. This mobile-first ecosystem digitalizes traditional parking lots, eliminating friction through real-time geocoding and seamless payment integration.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> React Native, Node.js, Express, PostgreSQL & Prisma.</li>
-  <li>🏗 <strong>Architecture:</strong> Strict Clean Architecture within a Turborepo Monorepo.</li>
-  <li>⚡ <strong>Features:</strong> Google Maps API (Geo), MercadoPago (Payments), Socket.io (Real-time) & Zustand.</li>
+  <li>🛠 <strong>Stack:</strong> React Native 0.81+ (Expo 54 & TypeScript), Node.js 22+ (Express), Prisma 5.21+ (PostgreSQL).</li>
+  <li>🏗 <strong>Architecture:</strong> Strict Clean Architecture with Feature-based modularity in a Turborepo monorepo.</li>
+  <li>⚡ <strong>Features:</strong> MercadoPago integration, Google Maps API, SecureStore encryption & Multi-role access control.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/EstacionAR" target="_blank">🔗 EstacionAR – Main Repository</a>
+  <a href="https://github.com/agussantinelli/EstacionAR.git" target="_blank">🔗 EstacionAR – Monorepo</a>
 </p>
 
 ---
