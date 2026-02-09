@@ -2,10 +2,14 @@
 
 <p align="center">
   <strong>Information Systems Engineering</strong> student from Rosario, Argentina.<br/>
-  Passionate about <strong>software engineering</strong>, <strong>clean architectures</strong>, and <strong>data-driven apps</strong>.
+  Passionate about <strong>software engineering</strong>, <strong>clean architectures</strong>, and <strong>data-driven apps</strong>.<br/>
+  🚀 <strong>Check out my live portfolio: <a href="https://agussantinelli.github.io/Portfolio/#" target="_blank">agussantinelli.github.io/Portfolio</a></strong>
 </p>
 
 <p align="center">
+  <a href="https://agussantinelli.github.io/Portfolio/#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
   <a href="mailto:agustinsantinelli@gmail.com">
     <img src="https://img.shields.io/badge/Email-agustinsantinelli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
