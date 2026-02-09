@@ -167,7 +167,7 @@
 
 ---
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
-**(Work in progress - Academic group project)**
+**(Work in progress - Independent group project)**
 <p>
   A high-end urban mobility platform transforming how drivers find and reserve parking in high-density urban areas. This mobile-first ecosystem digitalizes traditional parking operations, eliminating physical friction through real-time geocoding and seamless payment integration. Designed to optimize urban flow, the platform connects parking providers with drivers through a highly responsive interface, ensuring that the process of finding and paying for parking is as frictionless as possible in modern Argentine cities.
 </p>
