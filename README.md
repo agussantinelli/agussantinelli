@@ -33,7 +33,7 @@
   - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
   - 🎓 **Academic Infrastructure:** Modernizing university management with **Sysacad Next**.
   - 🚗 **Urban & Event Systems:** Developing scalable solutions for mobility (**EstacionAR**) and ticketing (**TicketApp**).
-  - 🛒 **Business Logic:** Crafting efficient management platforms for retail (**BuyJugador**) and social funding (**ImpulsaMe**).
+  - 🛒 **Business Logic:** Engineering the **MarketFlex** ecosystem for adaptive e-commerce, and crafting management platforms like **BuyJugador** and **ImpulsaMe**.
 
 ---
 
@@ -182,6 +182,25 @@
 
 <p>
   <a href="https://github.com/agussantinelli/EstacionAR.git" target="_blank">🔗 EstacionAR – Monorepo</a>
+</p>
+
+---
+### 🌀 MarketFlex – Adaptive E-commerce & Marketplace Ecosystem  
+**(Work in progress - Independent personal project)**
+<p>
+  The "Flex Factor" defined: A high-performance core designed for total metamorphosis. MarketFlex is a modular marketplace architecture engineered to adapt to diametrically opposed business models—from fashion retail and professional services to digital collectibles—without rewriting the core logic. It solves the fragmentation of e-commerce by providing a robust, vendor-agnostic infrastructure that amolds its UI and processing logic to the nature of the product.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Astro (Islands Architecture), Node.js & Express & TypeScript.</li>
+  <li>🏗 <strong>Architecture:</strong> Highly extensible modular services and polymorphic UI components for context-aware behavior.</li>
+  <li>⚡ <strong>Key Features:</strong> Instant white-label rebranding, dynamic metadata modeling for heterogeneous catalogs, and scale-ready async performance.</li>
+  <li>🔐 <strong>Infrastructure:</strong> Versatile RBAC for multi-role environments (Vendors/Clients/Admins) and a universal API ready for frontend variations.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/MarketFlex-FrontEnd" target="_blank">🔗 MarketFlex – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/MarketFlex-BackEnd" target="_blank">🔗 MarketFlex – BackEnd</a>
 </p>
 
 ---
