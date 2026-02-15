@@ -192,7 +192,7 @@
 </p>
 
 <ul>
-  <li>🛠 <b>Stack:</b> Astro 5+, Node.js 20+, <b>Hono 🔥</b> (High-performance Web Framework), PostgreSQL 15+ & Drizzle ORM.</li>
+  <li>🛠 <b>Stack:</b> Astro 5+, Node.js 20+, <b>Hono 🔥</b> (High-performance Backend Framework), PostgreSQL 15+ & Drizzle ORM.</li>
   <li>🏗 <strong>Architecture:</strong> Highly modular services and polymorphic UI components designed for total business model metamorphosis.</li>
   <li>⚡ <strong>Core Features:</strong> Instant white-label rebranding, dynamic metadata modeling for heterogeneous catalogs, and high-scale async performance.</li>
   <li>🌀 <strong>Adaptability:</strong> UX-agnostic flows optimized for diverse transactional types (physical products, services, or intangibles).</li>
