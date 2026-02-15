@@ -192,10 +192,11 @@
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Astro (Islands Architecture), Node.js & Express & TypeScript.</li>
-  <li>🏗 <strong>Architecture:</strong> Highly extensible modular services and polymorphic UI components for context-aware behavior.</li>
-  <li>⚡ <strong>Key Features:</strong> Instant white-label rebranding, dynamic metadata modeling for heterogeneous catalogs, and scale-ready async performance.</li>
-  <li>🔐 <strong>Infrastructure:</strong> Versatile RBAC for multi-role environments (Vendors/Clients/Admins) and a universal API ready for frontend variations.</li>
+  <li>🛠 <strong>Stack:</strong> Astro 5+, Node.js 20+ (Express 5), PostgreSQL 15+ & Drizzle ORM.</li>
+  <li>🏗 <strong>Architecture:</strong> Highly modular services and polymorphic UI components designed for total business model metamorphosis.</li>
+  <li>⚡ <strong>Core Features:</strong> Instant white-label rebranding, dynamic metadata modeling for heterogeneous catalogs, and high-scale async performance.</li>
+  <li>🌀 <strong>Adaptability:</strong> UX-agnostic flows optimized for diverse transactional types (physical products, services, or intangibles).</li>
+  <li>🛡️ <strong>Infrastructure:</strong> Versatile multi-role RBAC (Vendors/Clients/Admins) and a universal API ready for any interface variant.</li>
 </ul>
 
 <p>
