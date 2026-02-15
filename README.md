@@ -213,7 +213,7 @@
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Astro (SSR/SSG & TypeScript), Node.js (Express), MySQL & TypeScript.</li>
+  <li>🛠 <strong>Stack:</strong> Vue.js, Node.js (Express), MySQL & TypeScript.</li>
   <li>🏗 <strong>Architecture:</strong> Modular REST API architecture with Astro Islands for optimized SEO and a performance-first hybrid rendering approach.</li>
   <li>⚡ <strong>Core Features:</strong> Real-time boxscore tracking, advanced player "stocks" (STL + BLK) analytics, and automated daily schedule generators.</li>
   <li>🏆 <strong>History Logic:</strong> Comprehensive achievements engine for tracking MVPs, All-Stars, and Hall of Fame inductions with historical filtering.</li>
