@@ -231,4 +231,4 @@
 
 - 📧 Email: <strong>agustinsantinelli@gmail.com</strong>
 - 👨‍💻 LinkedIn: <a href="https://www.linkedin.com/in/agustin-santinelli-a60639300" target="_blank"><strong>Agustín Santinelli</strong></a>
-- 💼 Portfolio: <a href="https://agussantinelli.github.io/Portfolio/" target="_blank"></a>
+- 💼 Portfolio: <a href="https://agussantinelli.github.io/Portfolio/" target="_blank">https://agussantinelli.github.io/Portfolio/</a>
