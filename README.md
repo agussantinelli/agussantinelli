@@ -28,6 +28,7 @@
 - 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
 - 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
+- ⚖️ **Open Source Advocate:** All my public projects are released under the <b>MIT License</b>, encouraging transparency and community growth.
 - 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
 - 🚀 **Strategic focus areas:**
   - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
@@ -35,7 +36,7 @@
   - 🚗 **Urban & Event Systems:** Developing scalable solutions for mobility (**EstacionAR**) and ticketing (**TicketApp**).
   - 🛒 **Business Logic:** Engineering the **MarketFlex** ecosystem for adaptive e-commerce, and crafting management platforms like **BuyJugador** and **ImpulsaMe**.
 
----
+<hr />
 
 ## 🛠 Tech stack & skills
 
