@@ -26,15 +26,20 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="195px" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" height="195px" alt="Top Languages" />
   
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agussantinelli&theme=tokyo-night&area=true&hide_border=true" width="735px" alt="Activity Graph" />
+
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true" width="735px" alt="GitHub Streak" />
 </div>
 
 <hr />
+
 ## 🧑‍💻 About me
 
 - 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
