@@ -26,18 +26,12 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" width="300" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="195px" alt="Top Languages" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true" width="735px" alt="GitHub Streak" />
 </div>
 
 <hr />
