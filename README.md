@@ -49,7 +49,7 @@
 
 ### Frontend & Mobile
 - **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
-- Tailwind CSS, Material UI, Shadcn/ui
+- Material UI
 
 ### Databases & Data Access
 - **PostgreSQL**, **SQL Server**, **MySQL**
@@ -58,7 +58,7 @@
 ### Tools & Testing
 - **Monorepo:** Turborepo
 - **Testing:** Jest, Vitest, Playwright, Supertest
-- **Dev:** Git, Maven, npm
+- **Dev:** Git, Maven, npm, pnpm
 ---
 
 ## 🧩 Highlighted projects
