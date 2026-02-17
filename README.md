@@ -231,7 +231,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,discussions,prs,commits&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" height="195px" alt="Top Languages" />
   
   <br/>
