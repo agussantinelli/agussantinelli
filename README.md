@@ -236,19 +236,19 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,discussions,prs,commits" width="410px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,discussions,prs,commits&cache_seconds=0&v=1.0" width="410px" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8" width="315px" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8&cache_seconds=0&v=1.0" width="315px" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agussantinelli&theme=tokyo-night&area=true&hide_border=true" width="735px" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agussantinelli&theme=tokyo-night&area=true&hide_border=true&cache_seconds=0" width="735px" alt="Activity Graph" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true" width="735px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true&cache_seconds=0" width="735px" alt="GitHub Streak" />
 </div>
 
 <hr />
