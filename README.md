@@ -31,10 +31,11 @@
 - ⚖️ **Open Source Advocate:** All my public projects are released under the <b>MIT License</b>, encouraging transparency and community growth.
 - 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
 - 🚀 **Strategic focus areas:**
-  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
-  - 🎓 **Academic Infrastructure:** Modernizing university management with **Sysacad Next**.
-  - 🚗 **Urban & Event Systems:** Developing scalable solutions for mobility (**EstacionAR**) and ticketing (**TicketApp**).
-  - 🛒 **Business Logic:** Engineering the **MarketFlex** ecosystem for adaptive e-commerce, and crafting management platforms like **BuyJugador** and **ImpulsaMe**.
+  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem to achieve market transparency and multi-currency asset consolidation.
+  - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
+  - 🚗 **Urban Mobility & IoT:** Developing scalable, real-time geolocation solutions for smart parking with **EstacionAR**.
+  - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
+  - 🛒 **Adaptive E-commerce:** Engineering the **MarketFlex** core for polymorphic business models and inventory management solutions like **BuyJugador** and **ImpulsaMe**.
 
 <hr />
 
