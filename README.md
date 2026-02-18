@@ -60,7 +60,7 @@
 
 ### Tools & Testing
 - **Monorepo:** Turborepo
-- **Testing:** Jest, Vitest, Playwright, Supertest
+- **Testing:** Jest, Vitest, Playwright, Supertest, xUnit
 - **Dev:** Git, Maven, npm, pnpm
 ---
 
