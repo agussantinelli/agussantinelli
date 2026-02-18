@@ -43,25 +43,20 @@
 
 ## 🛠 Tech stack & skills
 
-### Languages
+### ⌨️ Languages & Core
 - **TypeScript**, **JavaScript**, **C#**, **Java**, **SQL**, **HTML**, **CSS**
 
-### Backend & APIs
-- **Node.js (Express)**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
-- **Architecture:** Clean Architecture, Layered design, DTOs
+### ⚙️ Backend & Architecture
+- **Node.js**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**, **Swagger**
+- **Focus:** Clean Architecture, Layered design, DTOs, RESTful APIs
 
-### Frontend & Mobile
-- **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
-- Material UI
+### 💻 Frontend, Mobile & Desktop
+- **React**, **Angular**, **Astro**, **Next.js**, **React Native**, **Blazor WASM**, **Windows Forms**, **Material UI**
 
-### Databases & Data Access
-- **PostgreSQL**, **SQL Server**, **MySQL**
-- **ORM:** Prisma, Entity Framework Core, Custom JDBC DAO, Hibernate
-
-### Tools & Testing
-- **Monorepo:** Turborepo
-- **Testing:** Jest, Vitest, Playwright, Supertest, xUnit
-- **Dev:** Git, Maven, npm, pnpm
+### 🗄️ Databases & Infrastructure
+- **PostgreSQL**, **MySQL**, **SQL Server**
+- **ORM/Tooling:** Prisma, EF Core, Hibernate, Maven
+- **DevOps & VCS:** GitHub, Docker
 ---
 
 ## 🧩 Highlighted projects
