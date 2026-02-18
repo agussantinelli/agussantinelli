@@ -131,7 +131,7 @@
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> .NET 8 (Blazor WebAssembly & WinForms), ASP.NET Core 8 Web API, SQL Server & EF Core.</li>
+  <li>🛠 <strong>Stack:</strong> .NET 8 (Blazor WebAssembly & WinForms), ASP.NET Core 8 Web API, SQL Server, EF Core & ADO.NET.</li>
   <li>🏗 <strong>Architecture:</strong> Layered Clean Architecture with Repository + Unit of Work patterns and a shared ApiClient for unified logic.</li>
   <li>⚡ <strong>Core Features:</strong> Real-time inventory tracking, multi-client support, and automated business report generation (PDF/PNG).</li>
   <li>📊 <strong>Advanced Logic:</strong> High-performance data visualization with ScottPlot, custom business metrics, and optimized EF Core query patterns.</li>
