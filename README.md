@@ -55,7 +55,7 @@
 
 ### 🗄️ Databases & Infrastructure
 - **PostgreSQL**, **MySQL**, **SQL Server**
-- **ORM/Tooling:** Prisma, EF Core, Hibernate, Maven
+- **ORM/Tooling:** Prisma, EF Core, Hibernate, ADO.NET, Maven
 - **DevOps & VCS:** GitHub, Docker
 ---
 
