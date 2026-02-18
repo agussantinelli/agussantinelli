@@ -35,8 +35,8 @@
   - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
   - 🚗 **Urban Mobility & IoT:** Developing scalable, real-time geolocation solutions for smart parking with **EstacionAR**.
   - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
-  - 🌀 **Adaptive E-commerce:** Engineering the **MarketFlex** core, a modular architecture designed for total metamorphosis across diverse business models.
-  - 🛒 **Inventory & Retail Management:** Developing robust back-office solutions for inventory synchronization and sales optimization, exemplified by **BuyJugador** and **ImpulsaMe**.
+  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture capable of adapting its UI and business logic to any commercial model (Physical, Services, or Digital).
+  - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
 
 <hr />
 
