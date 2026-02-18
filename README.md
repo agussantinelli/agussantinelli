@@ -37,6 +37,7 @@
   - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
   - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture capable of adapting its UI and business logic to any commercial model (Physical, Services, or Digital).
   - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
+  - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
 
 <hr />
 
