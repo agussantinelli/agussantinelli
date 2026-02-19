@@ -28,8 +28,7 @@
 - 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
 - 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
-- ⚖️ **Open Source Advocate:** All my public projects are released under the <b>MIT License</b>, encouraging transparency and community growth.
-- 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
+- ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright**.
 - 🚀 **Strategic focus areas:**
   - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem to achieve market transparency and multi-currency asset consolidation.
   - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
