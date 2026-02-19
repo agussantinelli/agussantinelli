@@ -224,6 +224,28 @@
   <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
+---
+
+### 🏎️ VUELTA F1NAL – Advanced Racing Analytics Platform
+**(Work in progress - Independent personal project)**
+
+<p>
+The first modern Formula 1 statistics platform designed to centralize live race data, advanced telemetry metrics, and decades of historical tracking into a single, high-performance web interface. It addresses the need for a comprehensive "visual wiki" for Spanish-speaking fans, allowing for deep dives into driver career trajectories, constructor evolution, and real-time race dynamics. The platform combines the precision of technical data with an intuitive experience for exploring the pinnacle of motorsport.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Technical stack to be defined (Current focus on architectural design and data modeling).</li>
+  <li>🏗 <strong>Architecture:</strong> Modular REST API architecture optimized for high-frequency data ingestion and predictive processing.</li>
+  <li>⚡ <strong>Core Features:</strong> Real-time Grand Prix tracking, sector-by-sector performance analysis, and automated race weekend schedule management.</li>
+  <li>🏆 <strong>History Logic:</strong> Comprehensive achievements engine for tracking World Championships, podiums, and pole positions with historical filtering since 1950.</li>
+  <li>🔮 <strong>Prediction Engine:</strong> Advanced algorithm nourished with historical and live data to calculate podium probabilities and race outcomes.</li>
+  <li>📊 <strong>Content Engine:</strong> Dynamic constructor "wikis" including technical specifications, chassis evolution, and historical team milestones.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Frontend" target="_blank">🔗 VUELTA F1NAL – FrontEnd</a>    •
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Backend" target="_blank">🔗 VUELTA F1NAL – BackEnd</a>
+</p>
 <hr />
 
 ## 📊 GitHub Stats & Activity
