@@ -38,6 +38,7 @@
   - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture capable of adapting its UI and business logic to any commercial model (Physical, Services, or Digital).
   - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
   - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
+  - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
 
 <hr />
 
