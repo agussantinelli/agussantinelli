@@ -28,37 +28,36 @@
 - 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
 - 🌍 Based in **Rosario, Argentina**.
 - 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
-- ⚖️ **Open Source Advocate:** All my public projects are released under the <b>MIT License</b>, encouraging transparency and community growth.
+- ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright**.
 - 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
 - 🚀 **Strategic focus areas:**
-  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem for market transparency.
-  - 🎓 **Academic Infrastructure:** Modernizing university management with **Sysacad Next**.
-  - 🚗 **Urban & Event Systems:** Developing scalable solutions for mobility (**EstacionAR**) and ticketing (**TicketApp**).
-  - 🛒 **Business Logic:** Engineering the **MarketFlex** ecosystem for adaptive e-commerce, and crafting management platforms like **BuyJugador** and **ImpulsaMe**.
+  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem to achieve market transparency and multi-currency asset consolidation.
+  - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
+  - 🚗 **Urban Mobility & IoT:** Developing scalable, real-time geolocation solutions for smart parking with **EstacionAR**.
+  - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
+  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture capable of adapting its UI and business logic to any commercial model (Physical, Services, or Digital).
+  - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
+  - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
+  - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
 
 <hr />
 
 ## 🛠 Tech stack & skills
 
-### Languages
+### ⌨️ Languages & Core
 - **TypeScript**, **JavaScript**, **C#**, **Java**, **SQL**, **HTML**, **CSS**
 
-### Backend & APIs
-- **Node.js (Express)**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
-- **Architecture:** Clean Architecture, Layered design, DTOs
+### ⚙️ Backend & Architecture
+- **Node.js**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**, **Swagger**
+- **Focus:** Clean Architecture, Layered design, DTOs, RESTful APIs
 
-### Frontend & Mobile
-- **React**, **Next.js**, **Angular**, **Astro**, **React Native**, **Blazor WebAssembly**
-- Tailwind CSS, Material UI, Shadcn/ui
+### 💻 Frontend, Mobile & Desktop
+- **React**, **Angular**, **Astro**, **Next.js**, **React Native**, **Blazor WASM**, **Windows Forms**, **Material UI**
 
-### Databases & Data Access
-- **PostgreSQL**, **SQL Server**, **MySQL**
-- **ORM:** Prisma, Entity Framework Core, Custom JDBC DAO, Hibernate
-
-### Tools & Testing
-- **Monorepo:** Turborepo
-- **Testing:** Jest, Vitest, Playwright, Supertest
-- **Dev:** Git, Maven, npm
+### 🗄️ Databases & Infrastructure
+- **PostgreSQL**, **MySQL**, **SQL Server**
+- **ORM/Tooling:** Prisma, EF Core, Hibernate, ADO.NET, Maven
+- **DevOps & VCS:** GitHub, Docker
 ---
 
 ## 🧩 Highlighted projects
@@ -133,7 +132,7 @@
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> .NET 8 (Blazor WebAssembly & WinForms), ASP.NET Core 8 Web API, SQL Server & EF Core.</li>
+  <li>🛠 <strong>Stack:</strong> .NET 8 (Blazor WebAssembly & WinForms), ASP.NET Core 8 Web API, SQL Server, EF Core & ADO.NET.</li>
   <li>🏗 <strong>Architecture:</strong> Layered Clean Architecture with Repository + Unit of Work patterns and a shared ApiClient for unified logic.</li>
   <li>⚡ <strong>Core Features:</strong> Real-time inventory tracking, multi-client support, and automated business report generation (PDF/PNG).</li>
   <li>📊 <strong>Advanced Logic:</strong> High-performance data visualization with ScottPlot, custom business metrics, and optimized EF Core query patterns.</li>
@@ -226,6 +225,28 @@
   <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
+---
+
+### 🏎️ VUELTA F1NAL – Advanced Racing Analytics Platform
+**(Work in progress - Independent personal project)**
+
+<p>
+The first modern Formula 1 statistics platform designed to centralize live race data, advanced telemetry metrics, and decades of historical tracking into a single, high-performance web interface. It addresses the need for a comprehensive "visual wiki" for Spanish-speaking fans, allowing for deep dives into driver career trajectories, constructor evolution, and real-time race dynamics. The platform combines the precision of technical data with an intuitive experience for exploring the pinnacle of motorsport.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Technical stack to be defined (Current focus on architectural design and data modeling).</li>
+  <li>🏗 <strong>Architecture:</strong> Modular REST API architecture optimized for high-frequency data ingestion and predictive processing.</li>
+  <li>⚡ <strong>Core Features:</strong> Real-time Grand Prix tracking, sector-by-sector performance analysis, and automated race weekend schedule management.</li>
+  <li>🏆 <strong>History Logic:</strong> Comprehensive achievements engine for tracking World Championships, podiums, and pole positions with historical filtering since 1950.</li>
+  <li>🔮 <strong>Prediction Engine:</strong> Advanced algorithm nourished with historical and live data to calculate podium probabilities and race outcomes.</li>
+  <li>📊 <strong>Content Engine:</strong> Dynamic constructor "wikis" including technical specifications, chassis evolution, and historical team milestones.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Frontend" target="_blank">🔗 VUELTA F1NAL – FrontEnd</a>    •
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Backend" target="_blank">🔗 VUELTA F1NAL – BackEnd</a>
+</p>
 <hr />
 
 ## 📊 GitHub Stats & Activity
