@@ -193,11 +193,11 @@
 </p>
 
 <ul>
-  <li>🛠 <b>Stack:</b> Astro 5+, Node.js 20+, <b>Hono 🔥</b> (High-performance Backend Framework), PostgreSQL 15+ & Drizzle ORM.</li>
-  <li>🏗 <strong>Architecture:</strong> Highly modular services and polymorphic UI components designed for total business model metamorphosis.</li>
-  <li>⚡ <strong>Core Features:</strong> Instant white-label rebranding, dynamic metadata modeling for heterogeneous catalogs, and high-scale async performance.</li>
+  <li>🛠 <b>Stack:</b> Astro 5.17+, React 19+, <b>Hono 🔥</b> (Backend), PostgreSQL 15+, Drizzle ORM, Ky & Sileo.</li>
+  <li>🏗 <strong>Architecture:</strong> Astro Islands (Select Hydration) for maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
+  <li>⚡ <strong>Core Features:</strong> URL-based traditional pagination (SEO Friendly), premium "gooey" notifications via Sileo, and dynamic metadata modeling.</li>
+  <li>🔐 <strong>Security:</strong> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Login, and invisible reCAPTCHA v3 protection.</li>
   <li>🌀 <strong>Adaptability:</strong> UX-agnostic flows optimized for diverse transactional types (physical products, services, or intangibles).</li>
-  <li>🛡️ <strong>Infrastructure:</strong> Versatile multi-role RBAC (Vendors/Clients/Admins) and a universal API ready for any interface variant.</li>
 </ul>
 
 <p>
