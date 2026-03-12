@@ -96,7 +96,7 @@
   <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
 </ul>
 
-* - Este repositorio se mantiene en privado*
+*Este repositorio se mantiene en privado*
 
 ---
 ### 🎓 Sysacad Next – University Management System
