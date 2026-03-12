@@ -61,7 +61,7 @@
 - **PostgreSQL**, **MySQL**, **SQL Server**, **Cloudinary** (Asset Management)
 - **ORM / Tooling:** Prisma, Drizzle ORM, EF Core, Hibernate, ADO.NET
 - **Testing Ecosystem:** Playwright (E2E), Vitest, MSW (Semantic Mocking), Faker.js
-- **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm
+- **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
 ---
 
 ## 🧩 Highlighted projects
