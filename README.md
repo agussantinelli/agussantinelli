@@ -82,7 +82,26 @@
 </p>
 
 ---
+### 🌀 MarketFlex – Adaptive E-commerce & Marketplace Ecosystem  
+**(Independent Personal Project)**
+<p>
+  The "Flex Factor" defined: A high-performance, polymorphic core designed for total structural metamorphosis. MarketFlex is a modular marketplace architecture engineered to adapt to diametrically opposed business models—from high-density retail and professional services to digital collectibles—without rewriting the core engine. It addresses the fragmentation of modern e-commerce by providing a robust, vendor-agnostic infrastructure that seamlessly amolds its UI, state management, and processing logic to the nature of the product.
+</p>
 
+<ul>
+  <li>🛠 <b>Stack:</b> Astro 5.17+ (Islands Architecture), React 19+, <b>Hono 🔥</b> (High-Performance Backend), PostgreSQL, Drizzle ORM, Ky & Sileo.</li>
+  <li>🏗 <b>Architecture:</b> Astro Islands for selective hydration and maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
+  <li>🧪 <b>Ecosystem of Testing (164+ Test Files / 920+ Tests):</b> A mission-critical suite ensuring 100% logic reliability. Unit/Integration via <b>Vitest & MSW</b>, and End-to-End flows with <b>Playwright</b>.</li>
+  <li>🔐 <b>Security & Identity:</b> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Handshake, and invisible reCAPTCHA v3 protection.</li>
+  <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/MarketFlex-FrontEnd" target="_blank">🔗 MarketFlex – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/MarketFlex-BackEnd" target="_blank">🔗 MarketFlex – BackEnd</a>
+</p>
+
+---
 ### 🎓 Sysacad Next – University Management System
 **(Independent Reengineering)**<p>
   A high-scale reengineering of the legacy UTN academic portal, developed to **eliminate bureaucratic friction** for thousands of students. This modern ecosystem transforms the enrollment experience into a high-performance, real-time interface. It manages complex academic rules, prerequisites, and schedules through a frictionless student-centric design, ensuring reliability during peak traffic periods like registration weeks through robust backend orchestration.
@@ -182,26 +201,6 @@
 
 <p>
   <a href="https://github.com/agussantinelli/EstacionAR.git" target="_blank">🔗 EstacionAR – Monorepo</a>
-</p>
-
----
-### 🌀 MarketFlex – Adaptive E-commerce & Marketplace Ecosystem  
-**(Independent Personal Project)**
-<p>
-  The "Flex Factor" defined: A high-performance, polymorphic core designed for total structural metamorphosis. MarketFlex is a modular marketplace architecture engineered to adapt to diametrically opposed business models—from high-density retail and professional services to digital collectibles—without rewriting the core engine. It addresses the fragmentation of modern e-commerce by providing a robust, vendor-agnostic infrastructure that seamlessly amolds its UI, state management, and processing logic to the nature of the product.
-</p>
-
-<ul>
-  <li>🛠 <b>Stack:</b> Astro 5.17+ (Islands Architecture), React 19+, <b>Hono 🔥</b> (High-Performance Backend), PostgreSQL, Drizzle ORM, Ky & Sileo.</li>
-  <li>🏗 <b>Architecture:</b> Astro Islands for selective hydration and maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
-  <li>🧪 <b>Ecosystem of Testing (164+ Test Files / 920+ Tests):</b> A mission-critical suite ensuring 100% logic reliability. Unit/Integration via <b>Vitest & MSW</b>, and End-to-End flows with <b>Playwright</b>.</li>
-  <li>🔐 <b>Security & Identity:</b> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Handshake, and invisible reCAPTCHA v3 protection.</li>
-  <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/MarketFlex-FrontEnd" target="_blank">🔗 MarketFlex – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/MarketFlex-BackEnd" target="_blank">🔗 MarketFlex – BackEnd</a>
 </p>
 
 ---
