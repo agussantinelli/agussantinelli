@@ -96,10 +96,7 @@
   <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
 </ul>
 
-<p>
-  <a href="https://github.com/agussantinelli/MarketFlex-FrontEnd" target="_blank">🔗 MarketFlex – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/MarketFlex-BackEnd" target="_blank">🔗 MarketFlex – BackEnd</a>
-</p>
+* - Este repositorio se mantiene en privado*
 
 ---
 ### 🎓 Sysacad Next – University Management System
