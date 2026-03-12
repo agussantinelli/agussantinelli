@@ -186,17 +186,17 @@
 
 ---
 ### 🌀 MarketFlex – Adaptive E-commerce & Marketplace Ecosystem  
-**(Work in progress - Independent personal project)**
+**(Independent Personal Project)**
 <p>
-  The "Flex Factor" defined: A high-performance core designed for total metamorphosis. MarketFlex is a modular marketplace architecture engineered to adapt to diametrically opposed business models—from fashion retail and professional services to digital collectibles—without rewriting the core logic. It solves the fragmentation of e-commerce by providing a robust, vendor-agnostic infrastructure that amolds its UI and processing logic to the nature of the product.
+  The "Flex Factor" defined: A high-performance, polymorphic core designed for total structural metamorphosis. MarketFlex is a modular marketplace architecture engineered to adapt to diametrically opposed business models—from high-density retail and professional services to digital collectibles—without rewriting the core engine. It addresses the fragmentation of modern e-commerce by providing a robust, vendor-agnostic infrastructure that seamlessly amolds its UI, state management, and processing logic to the nature of the product.
 </p>
 
 <ul>
-  <li>🛠 <b>Stack:</b> Astro 5.17+, React 19+, <b>Hono 🔥</b> (Backend), PostgreSQL 15+, Drizzle ORM, Ky & Sileo.</li>
-  <li>🏗 <strong>Architecture:</strong> Astro Islands (Select Hydration) for maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
-  <li>⚡ <strong>Core Features:</strong> URL-based traditional pagination (SEO Friendly), premium "gooey" notifications via Sileo, and dynamic metadata modeling.</li>
-  <li>🔐 <strong>Security:</strong> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Login, and invisible reCAPTCHA v3 protection.</li>
-  <li>🌀 <strong>Adaptability:</strong> UX-agnostic flows optimized for diverse transactional types (physical products, services, or intangibles).</li>
+  <li>🛠 <b>Stack:</b> Astro 5.17+ (Islands Architecture), React 19+, <b>Hono 🔥</b> (High-Performance Backend), PostgreSQL, Drizzle ORM, Ky & Sileo.</li>
+  <li>🏗 <b>Architecture:</b> Astro Islands for selective hydration and maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
+  <li>🧪 <b>Ecosystem of Testing (164+ Test Files / 920+ Tests):</b> A mission-critical suite ensuring 100% logic reliability. Unit/Integration via <b>Vitest & MSW</b>, and End-to-End flows with <b>Playwright</b>.</li>
+  <li>🔐 <b>Security & Identity:</b> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Handshake, and invisible reCAPTCHA v3 protection.</li>
+  <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
 </ul>
 
 <p>
