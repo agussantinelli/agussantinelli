@@ -48,16 +48,20 @@
 - **TypeScript**, **JavaScript**, **C#**, **Java**, **SQL**, **HTML**, **CSS**
 
 ### ⚙️ Backend & Architecture
-- **Node.js**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**, **Swagger**
-- **Focus:** Clean Architecture, Layered design, DTOs, RESTful APIs
+- **Node.js**, **Hono**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
+- **Architecture:** Clean Architecture, Feature-Based Modular Monolith, Layered Design, 7-File Blueprint, RESTful APIs
+- **Logic & Validation:** Zod (Strict Schema Validation), JWT (Dual-Token Auth), OpenAPI (Swagger 3.0)
 
 ### 💻 Frontend, Mobile & Desktop
-- **React**, **Angular**, **Astro**, **Next.js**, **React Native**, **Blazor WASM**, **Windows Forms**, **Material UI**
+- **React**, **Astro**, **Next.js**, **Angular**, **React Native**, **Blazor WASM**, **Windows Forms**
+- **UI & State:** Nanostores (Atomic), Zustand, Material UI, CSS Modules, Sileo (Gooey Notifications)
+- **Core Strategy:** Islands Architecture (Selective Hydration), Mobile-First, SEO-First
 
 ### 🗄️ Databases & Infrastructure
-- **PostgreSQL**, **MySQL**, **SQL Server**
-- **ORM/Tooling:** Prisma, EF Core, Hibernate, ADO.NET, Maven
-- **DevOps & VCS:** GitHub, Docker
+- **PostgreSQL**, **MySQL**, **SQL Server**, **Cloudinary** (Asset Management)
+- **ORM / Tooling:** Prisma, Drizzle ORM, EF Core, Hibernate, ADO.NET
+- **Testing Ecosystem:** Playwright (E2E), Vitest, MSW (Semantic Mocking), Faker.js
+- **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm
 ---
 
 ## 🧩 Highlighted projects
