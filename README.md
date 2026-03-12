@@ -100,8 +100,8 @@
   <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
 </ul>
 
-<p align="center">
-  <sub><em>This repository is currently maintained privately.</em></sub>
+<p>
+  <em>This repository is currently maintained privately.</em>
 </p>
 
 ---
