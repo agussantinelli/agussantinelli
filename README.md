@@ -31,7 +31,7 @@
 - ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright**.
 - 💬 Comfortable navigating the full stack—from **TypeScript** and **React** to **.NET**, **Java Spring Boot**, and **Node.js**.
 - 🚀 **Strategic focus areas:**
-  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem to achieve market transparency and multi-currency asset consolidation.
+  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem (Web & Desktop) to achieve market transparency and multi-currency asset consolidation.
   - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
   - 🚗 **Urban Mobility & IoT:** Developing scalable, real-time geolocation solutions for smart parking with **EstacionAR**.
   - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
@@ -39,7 +39,7 @@
   - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
   - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
   - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
-  - 📝 **Personal Academic Management:** Streamlining student life with automated grade tracking and performance visualization using **CalificAR**.
+  - 📝 **Personal Academic Management:** Streamlining student life with automated grade tracking and performance visualization using **GradeSync**.
 
 <hr />
 
@@ -268,6 +268,26 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <p>
   <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank">🔗 GradeSync Desktop – Main Repository</a>
+</p>
+
+<hr />
+
+### 💳 FinanzApp Desktop – Advanced Wealth & Asset Management  
+**(Work in progress - Independent personal project)**
+<p>
+  A high-performance desktop implementation of the FinanzApp ecosystem, specifically engineered for Windows 11 to provide professional-grade asset tracking. This native solution centralizes fragmented multi-currency portfolios—including Stocks, Crypto, and Bonds—into a robust core driven by SQL Server. By utilizing native Windows materials and a sophisticated financial math engine, it delivers real-time Profit/Loss analytics and transaction integrity with the fluidity of a premium desktop experience.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> WinUI 3 (Windows App SDK), C# 12, EF Core 8.0 & SQL Server.</li>
+  <li>🏗 <strong>Architecture:</strong> Modern MVVM implementation utilizing CommunityToolkit.Mvvm for reactive state management and decoupled business logic.</li>
+  <li>⚡ <strong>Core Features:</strong> Real-time investment dashboards, comprehensive transactional auditing (Buy/Sell/Fees), and complex multi-asset Profit/Loss calculations.</li>
+  <li>✨ <strong>Windows 11 Experience:</strong> Fluid interface leveraging native <strong>Mica</strong> and <strong>Acrylic</strong> materials for an OS-integrated, premium look and feel.</li>
+  <li>🗄️ <strong>Enterprise Motor:</strong> Robust data persistence and integrity managed via SQL Server and Entity Framework Core for high-frequency financial operations.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/FinanzApp-Desktop" target="_blank">🔗 FinanzApp Desktop – Main Repository</a>
 </p>
 
 <hr />
