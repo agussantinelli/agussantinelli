@@ -39,6 +39,7 @@
   - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
   - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
   - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
+  - 📝 **Personal Academic Management:** Streamlining student life with automated grade tracking and performance visualization using **CalificAR**.
 
 <hr />
 
@@ -249,6 +250,26 @@ The first modern Formula 1 statistics platform designed to centralize live race 
   <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Frontend" target="_blank">🔗 VUELTA F1NAL – FrontEnd</a>    •
   <a href="https://github.com/agussantinelli/VUELTA-F1NAL-Backend" target="_blank">🔗 VUELTA F1NAL – BackEnd</a>
 </p>
+<hr />
+
+### 🎓 GradeSync Desktop – Personal Academic Management System  
+**(Work in progress - Independent personal project)**
+<p>
+  A high-end academic management tool engineered with .NET MAUI to empower students with precise control over their educational journey. GradeSync automates complex grade calculations and performance tracking, transforming academic data into intuitive visual insights. By leveraging a modern mobile interface and robust local persistence, it provides students with a seamless, reliable platform to monitor their GPA and academic progress in real-time.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> .NET MAUI, C# 12, XAML & SQLite.</li>
+  <li>🏗 <strong>Architecture:</strong> Strict MVVM (Model-View-ViewModel) design ensuring clean separation of concerns and scalability.</li>
+  <li>⚡ <strong>Core Features:</strong> Automated GPA/Academic average calculations, intelligent grade categorization, and dynamic performance dashboards.</li>
+  <li>📂 <strong>Smart Organization:</strong> Advanced data grouping via CollectionView for optimized navigation and clarity of academic records.</li>
+  <li>💾 <strong>Infrastructure:</strong> Local-first persistence using SQLite for maximum reliability and offline data integrity.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank">🔗 GradeSync Desktop – Main Repository</a>
+</p>
+
 <hr />
 
 ## 📊 GitHub Stats & Activity
