@@ -113,11 +113,12 @@
 
 <ul>
   <li>🛠 <strong>Stack:</strong> Angular 19+ (Signals & Signals Queries), Java 21 (Spring Boot 3.5.9), PostgreSQL & Hibernate.</li>
-  <li>🏗 <strong>Architecture:</strong> Layered Clean Architecture (Backend) and a modern Reactive SPA (Standalone Components & Signals Control Flow).</li>
+  <li>🏗 <strong>Architecture:</strong> Layered Clean Architecture and a modern Reactive SPA, verified by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine).</li>
   <li>⚡ <strong>Core Features:</strong> Smart enrollment engine with prerequisite validation, interactive curriculum mapping, and real-time administrative dashboards.</li>
   <li>🛡️ <strong>Security:</strong> Custom boot-level identification (BootId), JWT-based session management, and role-based access control (RBAC) for data isolation.</li>
   <li>📱 <strong>Performance:</strong> Mobile-first responsive UI, highly optimized database queries with specialized indexing, and ultra-fast frontend hydration.</li>
 </ul>
+
 
 <p>
   <a href="https://github.com/agussantinelli/Sysacad-Next-FrontEnd" target="_blank">🔗 Sysacad Next – FrontEnd</a>   •
