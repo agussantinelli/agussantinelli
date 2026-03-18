@@ -212,6 +212,26 @@
 
 <hr />
 
+### 🏎️ VUELTA F1NAL – Advanced Racing Analytics Platform
+**(Work in progress - Independent personal project)**
+
+<p>
+The first modern Formula 1 statistics platform designed to centralize live race data, advanced telemetry metrics, and decades of historical tracking into a single, high-performance web interface. It addresses the need for a comprehensive "visual wiki" for Spanish-speaking fans, allowing for deep dives into driver career trajectories, constructor evolution, and real-time race dynamics. The platform combines the precision of technical data with an intuitive experience for exploring the pinnacle of motorsport.
+</p>
+
+<ul>
+  <li> 🏗️ <b>Arquitectura & Stack:</b> Ecosistema Monorepo basado en <b>Kotlin Multiplatform (KMP)</b> y <b>Gradle Multi-project</b>, utilizando <b>Ktor</b> para un backend asíncrono de alto rendimiento y <b>Jetpack Compose</b> para una interfaz nativa y reactiva en Android. </li>
+  <li> ⚡ <b>Funcionalidades Core:</b> Seguimiento de Grandes Premios en tiempo real mediante <b>Ktor WebSockets</b>, análisis de rendimiento detallado por micro-sectores y gestión automatizada del calendario oficial de la temporada. </li>
+  <li> 🏆 <b>Lógica Histórica:</b> Motor de logros integral diseñado para el seguimiento de Campeonatos Mundiales, podios y pole positions, con un sistema de filtrado basado en Big Data histórico desde 1950. </li>
+  <li> 🔮 <b>Motor de Predicción:</b> Algoritmo avanzado procesado en el servidor que combina datos históricos con telemetría en vivo para calcular probabilidades de podio, paradas en boxes y resultados finales de carrera. </li>
+  <li> 📊 <b>Motor de Contenido:</b> "Wikis" dinámicas de constructores que detallan especificaciones técnicas, evolución del chasis y hitos históricos, sincronizadas entre el servidor y el cliente mediante <b>Ktor Serialization</b>. </li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL" target="_blank">🔗 VUELTA F1NAL</a>
+</p>
+<hr />
+
 ### 🏀 Promiedos NBA – Advanced Statistics Platform  
 **(Work in progress - Independent personal project)**
 <p>
@@ -231,26 +251,6 @@
   <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
-<hr />
-
-### 🏎️ VUELTA F1NAL – Advanced Racing Analytics Platform
-**(Work in progress - Independent personal project)**
-
-<p>
-The first modern Formula 1 statistics platform designed to centralize live race data, advanced telemetry metrics, and decades of historical tracking into a single, high-performance web interface. It addresses the need for a comprehensive "visual wiki" for Spanish-speaking fans, allowing for deep dives into driver career trajectories, constructor evolution, and real-time race dynamics. The platform combines the precision of technical data with an intuitive experience for exploring the pinnacle of motorsport.
-</p>
-
-<ul>
-  <li> 🏗️ <b>Arquitectura & Stack:</b> Ecosistema Monorepo basado en <b>Kotlin Multiplatform (KMP)</b> y <b>Gradle Multi-project</b>, utilizando <b>Ktor</b> para un backend asíncrono de alto rendimiento y <b>Jetpack Compose</b> para una interfaz nativa y reactiva en Android. </li>
-  <li> ⚡ <b>Funcionalidades Core:</b> Seguimiento de Grandes Premios en tiempo real mediante <b>Ktor WebSockets</b>, análisis de rendimiento detallado por micro-sectores y gestión automatizada del calendario oficial de la temporada. </li>
-  <li> 🏆 <b>Lógica Histórica:</b> Motor de logros integral diseñado para el seguimiento de Campeonatos Mundiales, podios y pole positions, con un sistema de filtrado basado en Big Data histórico desde 1950. </li>
-  <li> 🔮 <b>Motor de Predicción:</b> Algoritmo avanzado procesado en el servidor que combina datos históricos con telemetría en vivo para calcular probabilidades de podio, paradas en boxes y resultados finales de carrera. </li>
-  <li> 📊 <b>Motor de Contenido:</b> "Wikis" dinámicas de constructores que detallan especificaciones técnicas, evolución del chasis y hitos históricos, sincronizadas entre el servidor y el cliente mediante <b>Ktor Serialization</b>. </li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/VUELTA-F1NAL" target="_blank">🔗 VUELTA F1NAL</a>
-</p>
 <hr />
 
 ### 🎓 GradeSync Desktop – Personal Academic Management System  
