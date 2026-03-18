@@ -220,11 +220,21 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 </p>
 
 <ul>
-  <li> 🏗️ <b>Arquitectura & Stack:</b> Ecosistema Monorepo basado en <b>Kotlin Multiplatform (KMP)</b> y <b>Gradle Multi-project</b>, utilizando <b>Ktor</b> para un backend asíncrono de alto rendimiento y <b>Jetpack Compose</b> para una interfaz nativa y reactiva en Android. </li>
-  <li> ⚡ <b>Funcionalidades Core:</b> Seguimiento de Grandes Premios en tiempo real mediante <b>Ktor WebSockets</b>, análisis de rendimiento detallado por micro-sectores y gestión automatizada del calendario oficial de la temporada. </li>
-  <li> 🏆 <b>Lógica Histórica:</b> Motor de logros integral diseñado para el seguimiento de Campeonatos Mundiales, podios y pole positions, con un sistema de filtrado basado en Big Data histórico desde 1950. </li>
-  <li> 🔮 <b>Motor de Predicción:</b> Algoritmo avanzado procesado en el servidor que combina datos históricos con telemetría en vivo para calcular probabilidades de podio, paradas en boxes y resultados finales de carrera. </li>
-  <li> 📊 <b>Motor de Contenido:</b> "Wikis" dinámicas de constructores que detallan especificaciones técnicas, evolución del chasis y hitos históricos, sincronizadas entre el servidor y el cliente mediante <b>Ktor Serialization</b>. </li>
+<li>
+🏗️ <b>Architecture & Stack:</b> Monorepo ecosystem based on <b>Kotlin Multiplatform (KMP)</b> and <b>Gradle Multi-project</b>, utilizing <b>Ktor</b> for a high-performance asynchronous backend and <b>Jetpack Compose</b> for a native and reactive Android interface.
+</li>
+<li>
+⚡ <b>Core Features:</b> Real-time Grand Prix tracking via <b>Ktor WebSockets</b>, detailed sector-by-sector performance analysis, and automated management of the official season calendar.
+</li>
+<li>
+🏆 <b>Historical Logic:</b> Comprehensive achievements engine designed for tracking World Championships, podiums, and pole positions, with a filtering system based on historical Big Data since 1950.
+</li>
+<li>
+🔮 <b>Prediction Engine:</b> Advanced server-side algorithm combining historical data with live telemetry to calculate podium probabilities, pit stop windows, and race outcomes.
+</li>
+<li>
+📊 <b>Content Engine:</b> Dynamic constructor wikis detailing technical specifications, chassis evolution, and historical milestones, synchronized between server and client via <b>Ktor Serialization</b>.
+</li>
 </ul>
 
 <p>
