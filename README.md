@@ -63,7 +63,8 @@
 - **ORM / Tooling:** Prisma, Drizzle ORM, EF Core, Hibernate, ADO.NET
 - **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, MSW (Semantic Mocking), Faker.js, Karma, Jasmine
 - **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
----
+
+<hr />
 
 ## 🧩 Highlighted projects
 
@@ -86,7 +87,8 @@
   <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
 </p>
 
----
+<hr />
+
 ### 🌀 MarketFlex – Adaptive E-commerce & Marketplace Ecosystem  
 **(Independent Personal Project)**
 <p>
@@ -105,7 +107,8 @@
   <em>This repository is currently maintained privately.</em>
 </p>
 
----
+<hr />
+
 ### 🎓 Sysacad Next – University Management System
 **(Independent Reengineering)**<p>
   A high-scale reengineering of the legacy UTN academic portal, developed to **eliminate bureaucratic friction** for thousands of students. This modern ecosystem transforms the enrollment experience into a high-performance, real-time interface. It manages complex academic rules, prerequisites, and schedules through a frictionless student-centric design, ensuring reliability during peak traffic periods like registration weeks through robust backend orchestration.
@@ -125,7 +128,7 @@
   <a href="https://github.com/agussantinelli/Sysacad-Next-Backend" target="_blank"> 🔗 Sysacad Next – BackEnd</a>
 </p>
 
----
+<hr />
 
 ### 🎫 TicketApp – Event Ticketing Platform  
 **(Academic group project – UTN FRRO)**
@@ -147,7 +150,7 @@
   <a href="https://github.com/agussantinelli/TicketApp-Documentacion" target="_blank">🔗 TicketApp – Root Repo</a>
 </p>
 
----
+<hr />
 
 ### 🎮 BuyJugador – Gaming Inventory & Sales System  
 **(Academic group project – UTN FRRO)**
@@ -167,9 +170,7 @@
   <a href="https://github.com/agussantinelli/ProyectoIDE-BuyJugador" target="_blank">🔗 BuyJugador – Main repository</a>
 </p>
 
-
-
----
+<hr />
 
 ### 💰 ImpulsaMe – Java Crowdfunding Platform  
 **(Academic group project – UTN FRRO)**
@@ -189,7 +190,8 @@
   <a href="https://github.com/agussantinelli/ImpulsaMe-Java" target="_blank">🔗 ImpulsaMe – Java Platform</a>
 </p>
 
----
+<hr />
+
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
 **(Work in progress - Independent group project)**
 <p>
@@ -208,7 +210,7 @@
   <a href="https://github.com/agussantinelli/EstacionAR.git" target="_blank">🔗 EstacionAR – Monorepo</a>
 </p>
 
----
+<hr />
 
 ### 🏀 Promiedos NBA – Advanced Statistics Platform  
 **(Work in progress - Independent personal project)**
@@ -229,7 +231,7 @@
   <a href="https://github.com/agussantinelli/Promiedos-NBA-BackEnd" target="_blank">🔗 Promiedos NBA – BackEnd</a>
 </p>
 
----
+<hr />
 
 ### 🏎️ VUELTA F1NAL – Advanced Racing Analytics Platform
 **(Work in progress - Independent personal project)**
