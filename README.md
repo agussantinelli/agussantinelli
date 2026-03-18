@@ -220,21 +220,11 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 </p>
 
 <ul>
-<li>
-🏗️ <b>Architecture & Stack:</b> Monorepo ecosystem based on <b>Kotlin Multiplatform (KMP)</b> and <b>Gradle Multi-project</b>, utilizing <b>Ktor</b> for a high-performance asynchronous backend and <b>Jetpack Compose</b> for a native and reactive Android interface.
-</li>
-<li>
-⚡ <b>Core Features:</b> Real-time Grand Prix tracking via <b>Ktor WebSockets</b>, detailed sector-by-sector performance analysis, and automated management of the official season calendar.
-</li>
-<li>
-🏆 <b>Historical Logic:</b> Comprehensive achievements engine designed for tracking World Championships, podiums, and pole positions, with a filtering system based on historical Big Data since 1950.
-</li>
-<li>
-🔮 <b>Prediction Engine:</b> Advanced server-side algorithm combining historical data with live telemetry to calculate podium probabilities, pit stop windows, and race outcomes.
-</li>
-<li>
-📊 <b>Content Engine:</b> Dynamic constructor wikis detailing technical specifications, chassis evolution, and historical milestones, synchronized between server and client via <b>Ktor Serialization</b>.
-</li>
+  <li> 🏗️ <b>Architecture & Stack:</b> Monorepo ecosystem based on <b>Kotlin Multiplatform (KMP)</b> and <b>Gradle Multi-project</b>, utilizing <b>Ktor</b> for a high-performance asynchronous backend and <b>Jetpack Compose</b> for a native and reactive Android interface. </li>
+  <li> ⚡ <b>Core Features:</b> Real-time Grand Prix tracking via <b>Ktor WebSockets</b>, detailed sector-by-sector performance analysis, and automated management of the official season calendar. </li>
+  <li> 🏆 <b>Historical Logic:</b> Comprehensive achievements engine designed for tracking World Championships, podiums, and pole positions, with a filtering system based on historical Big Data since 1950. </li>
+  <li> 🔮 <b>Prediction Engine:</b> Advanced server-side algorithm combining historical data with live telemetry to calculate podium probabilities, pit stop windows, and race outcomes. </li>
+  <li> 📊 <b>Content Engine:</b> Dynamic constructor wikis detailing technical specifications, chassis evolution, and historical milestones, synchronized between server and client via <b>Ktor Serialization</b>. </li>
 </ul>
 
 <p>
