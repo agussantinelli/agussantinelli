@@ -248,7 +248,7 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/VUELTA-F1NAL" target="_blank">🔗 VUELTA F1NAL – FrontEnd</a>
+  <a href="https://github.com/agussantinelli/VUELTA-F1NAL" target="_blank">🔗 VUELTA F1NAL</a>
 </p>
 <hr />
 
