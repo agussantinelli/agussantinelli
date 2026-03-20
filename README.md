@@ -98,7 +98,7 @@
 <ul>
   <li>🛠 <b>Stack:</b> Astro 5.17+ (Islands Architecture), React 19+, <b>Hono 🔥</b> (High-Performance Backend), PostgreSQL, Drizzle ORM, Ky & Sileo.</li>
   <li>🏗 <b>Architecture:</b> Astro Islands for selective hydration and maximum TTI, Feature-Based Modular Monolith, and Zero-Pollution Swagger API documentation.</li>
-  <li>🧪 <b>Ecosystem of Testing (164+ Test Files / 920+ Tests):</b> A mission-critical suite ensuring 100% logic reliability. Unit/Integration via <b>Vitest & MSW</b>, and End-to-End flows with <b>Playwright</b>.</li>
+  <li>🧪 <b>Ecosystem of Testing (180+ Test Files / 1000+ Tests):</b> A mission-critical suite ensuring 100% logic reliability. Unit/Integration via <b>Vitest & MSW</b>, and 10+ End-to-End flows with <b>Playwright</b>.</li>
   <li>🔐 <b>Security & Identity:</b> Dual-Token Auth (JWT & Refresh Token Rotation), Google/Facebook Social Handshake, and invisible reCAPTCHA v3 protection.</li>
   <li>🌀 <b>Polymorphic UX:</b> Adaptive transactional flows (Identity -> Logistics -> Finance) optimized for physical products, services, or intangibles.</li>
 </ul>
