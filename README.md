@@ -120,7 +120,7 @@
   <li>🏗️ <strong>Architecture & Performance:</strong> Built under <strong>Layered Clean Architecture</strong> as a modern Reactive SPA, featuring highly optimized database indexing and a high-performance backend.</li>
   <li>⚡ <strong>Smart Core Features:</strong> Intelligent enrollment engine with real-time prerequisite validation, interactive curriculum mapping, and dynamic administrative dashboards.</li>
   <li>🛡️ <strong>Security & Data Isolation:</strong> Session management via <strong>JWT</strong>, Role-Based Access Control (<strong>RBAC</strong>), and custom <strong>BootId</strong> identification to protect academic data integrity.</li>
-  <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine) and <strong>+10 E2E flows (Cypress)</strong> to ensure zero regression.</li>
+  <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+400 unit/integration tests</strong> (Karma & Jasmine) and <strong>+10 E2E flows (Cypress)</strong> to ensure zero regression.</li>
 </ul>
 
 
