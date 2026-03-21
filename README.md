@@ -118,9 +118,9 @@
 <ul>
   <li>🛠 <strong>Stack & Engineering:</strong> Powered by <strong>Angular 19+</strong> (Signals and Signals Queries), <strong>Java 21</strong> (Spring Boot 3.5.9), <strong>PostgreSQL</strong>, and <strong>Hibernate</strong> for high-scale data orchestration.</li>
   <li>🏗️ <strong>Architecture & Performance:</strong> Built under <strong>Layered Clean Architecture</strong> as a modern Reactive SPA, featuring highly optimized database indexing and a high-performance backend.</li>
-  <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine) and <strong>automated E2E flows (Cypress)</strong> to ensure zero regression.</li>
   <li>⚡ <strong>Smart Core Features:</strong> Intelligent enrollment engine with real-time prerequisite validation, interactive curriculum mapping, and dynamic administrative dashboards.</li>
   <li>🛡️ <strong>Security & Data Isolation:</strong> Session management via <strong>JWT</strong>, Role-Based Access Control (<strong>RBAC</strong>), and custom <strong>BootId</strong> identification to protect academic data integrity.</li>
+  <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine) and <strong>automated E2E flows (Cypress)</strong> to ensure zero regression.</li>
 </ul>
 
 
