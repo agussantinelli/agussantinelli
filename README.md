@@ -110,7 +110,8 @@
 <hr />
 
 ### 🎓 Sysacad Next – University Management System
-**(Independent Reengineering)**<p>
+**(Independent Reengineering)**
+<p>
   A high-scale reengineering of the legacy UTN academic portal, developed to **eliminate bureaucratic friction** for thousands of students. This modern ecosystem transforms the enrollment experience into a high-performance, real-time interface. It manages complex academic rules, prerequisites, and schedules through a frictionless student-centric design, ensuring reliability during peak traffic periods like registration weeks through robust backend orchestration.
 </p>
 
