@@ -115,12 +115,13 @@
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Angular 19+ (Signals & Signals Queries), Java 21 (Spring Boot 3.5.9), PostgreSQL & Hibernate.</li>
-  <li>🏗️ <strong>Architecture:</strong> Layered Clean Architecture and a modern Reactive SPA, verified by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine) and <strong>automated E2E flows (Cypress)</strong>.</li>
-  <li>⚡ <strong>Core Features:</strong> Smart enrollment engine with prerequisite validation, interactive curriculum mapping, and real-time administrative dashboards.</li>
-  <li>🛡️ <strong>Security:</strong> Custom boot-level identification (BootId), JWT-based session management, and role-based access control (RBAC) for data isolation.</li>
-  <li>📱 <strong>Performance:</strong> Mobile-first responsive UI, highly optimized database queries with specialized indexing, and ultra-fast frontend hydration.</li>
+  <li>🛠 <strong>Stack & Engineering:</strong> <strong>Angular 19+</strong> (Signals and Signals Queries), <strong>Java 21</strong> (Spring Boot 3.5.9), <strong>PostgreSQL</strong> and <strong>Hibernate</strong>.</li>
+  <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+400 unit tests</strong> (Karma & Jasmine) and <strong>automated E2E flows (Cypress)</strong> to ensure zero regression.</li>
+  <li>⚡ <strong>Smart Core Features:</strong> Intelligent enrollment engine with real-time prerequisite validation, interactive curriculum mapping, and dynamic administrative dashboards </li>
+  <li>🛡️ <strong>Security & Data Isolation:</strong> Session management via <strong>JWT</strong>, Role-Based Access Control (<strong>RBAC</strong>), and custom <strong>BootId</strong> identification to protect academic data integrity.</li>
+  <li>📱 <strong>UI, Architecture & Performance:</strong> Frictionless <strong>Mobile-first</strong> SPA built under <strong>Layered Clean Architecture</strong>, featuring ultra-fast hydration and highly optimized database indexing.</li>
 </ul>
+
 
 
 <p>
