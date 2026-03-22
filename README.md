@@ -78,7 +78,7 @@
   <ul>
     <li> <strong>🛠 Stack:</strong> Next.js 16+ (App Router), React 19.2+, Material UI 7.3+, ASP.NET Core 9.0+ (C#) & PostgreSQL. </li>
     <li> <strong>🏗️ Architecture:</strong> Clean Architecture with optimized data access and hybrid rendering (SSR/SSG). </li>
-    <li> <strong>⚡ Features:</strong> Multi-asset management, real-time market data caching, automated Excel imports with pre-validation logic, FinanzAI (intelligent assistant), interactive Chart.js dashboards, and a premium Neon-Dark theme with optimized accessibility. </li>
+    <li> <strong>⚡ Features:</strong> Multi-asset management, real-time market data caching, automated Excel imports with pre-validation logic, FinanzAI (real-time streaming assistant), interactive Chart.js dashboards, and a premium Neon-Dark theme with optimized accessibility. </li>
     <li> <strong>🛡️ Security & Logic:</strong> Google Identity OAuth 2.0, reCAPTCHA v2 protection, and Zod-based strict schema validation for all financial payloads. </li>
     <li> <strong>🧪 Testing:</strong> <strong>800+ unit & integration tests</strong> (Moq, Vitest, MSW, xUnit), 10+ critical E2E flows with Playwright and comprehensive coverage of key business logic. </li>
   </ul>
