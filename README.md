@@ -61,7 +61,7 @@
 ### 🗄️ Databases & Infrastructure
 - **PostgreSQL**, **MySQL**, **SQL Server**, **Cloudinary** (Asset Management)
 - **ORM / Tooling:** Prisma, Drizzle ORM, EF Core, Hibernate, ADO.NET
-- **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, MSW (Semantic Mocking), Faker.js, Karma, Jasmine, xUnit, JUnit 5, Mockito, Spring Boot Test
+- **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, MSW (Semantic Mocking), Faker.js, Karma, Jasmine, xUnit, JUnit 5, Mockito
 - **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
 
 <hr />
