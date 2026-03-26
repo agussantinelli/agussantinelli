@@ -212,7 +212,7 @@
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/EstacionAR.git" target="_blank">🔗 EstacionAR – Monorepo</a>
+  <em>This repository is currently maintained privately.</em>
 </p>
 
 <hr />
