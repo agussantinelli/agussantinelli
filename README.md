@@ -278,26 +278,6 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <hr />
 
-### 🎓 GradeSync Desktop – Personal Academic Management System  
-**(Work in progress - Independent personal project)**
-<p>
-  A high-end academic management tool engineered with .NET MAUI to empower students with precise control over their educational journey. GradeSync automates complex grade calculations and performance tracking, transforming academic data into intuitive visual insights. By leveraging a modern mobile interface and robust local persistence, it provides students with a seamless, reliable platform to monitor their GPA and academic progress in real-time.
-</p>
-
-<ul>
-  <li>🛠 <strong>Stack:</strong> .NET MAUI, C# 12, XAML & SQLite.</li>
-  <li>🏗 <strong>Architecture:</strong> Strict MVVM (Model-View-ViewModel) design ensuring clean separation of concerns and scalability.</li>
-  <li>⚡ <strong>Core Features:</strong> Automated GPA/Academic average calculations, intelligent grade categorization, and dynamic performance dashboards.</li>
-  <li>📂 <strong>Smart Organization:</strong> Advanced data grouping via CollectionView for optimized navigation and clarity of academic records.</li>
-  <li>💾 <strong>Infrastructure:</strong> Local-first persistence using SQLite for maximum reliability and offline data integrity.</li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank">🔗 GradeSync Desktop – Main Repository</a>
-</p>
-
-<hr />
-
 ### 💳 FinanzApp Desktop – Advanced Wealth & Asset Management  
 **(Work in progress - Independent personal project)**
 <p>
@@ -314,6 +294,26 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <p>
   <a href="https://github.com/agussantinelli/FinanzApp-Desktop" target="_blank">🔗 FinanzApp Desktop – Main Repository</a>
+</p>
+
+<hr />
+
+### 🎓 GradeSync Desktop – Personal Academic Management System  
+**(Work in progress - Independent personal project)**
+<p>
+  A high-end academic management tool engineered with .NET MAUI to empower students with precise control over their educational journey. GradeSync automates complex grade calculations and performance tracking, transforming academic data into intuitive visual insights. By leveraging a modern mobile interface and robust local persistence, it provides students with a seamless, reliable platform to monitor their GPA and academic progress in real-time.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> .NET MAUI, C# 12, XAML & SQLite.</li>
+  <li>🏗 <strong>Architecture:</strong> Strict MVVM (Model-View-ViewModel) design ensuring clean separation of concerns and scalability.</li>
+  <li>⚡ <strong>Core Features:</strong> Automated GPA/Academic average calculations, intelligent grade categorization, and dynamic performance dashboards.</li>
+  <li>📂 <strong>Smart Organization:</strong> Advanced data grouping via CollectionView for optimized navigation and clarity of academic records.</li>
+  <li>💾 <strong>Infrastructure:</strong> Local-first persistence using SQLite for maximum reliability and offline data integrity.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank">🔗 GradeSync Desktop – Main Repository</a>
 </p>
 
 <hr />
