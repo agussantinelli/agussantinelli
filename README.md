@@ -40,6 +40,7 @@
   - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
   - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
   - 📝 **Personal Academic Management:** Streamlining student life with automated grade tracking and performance visualization using **GradeSync**.
+  - 🐙 **Developer Intelligence & GitHub Analytics:** Transforming raw GitHub profiles into interactive "Technical Sheets" through data visualization and algorithmic curation with **GitData**.
 
 <hr />
 
@@ -125,8 +126,6 @@
   <li>🛡️ <strong>Security & Data Isolation:</strong> Session management via <strong>JWT</strong>, Role-Based Access Control (<strong>RBAC</strong>), and custom <strong>BootId</strong> identification to protect academic data integrity.</li>
   <li>🧪 <strong>Software Quality (Testing):</strong> Ecosystem verified and shielded by a robust suite of <strong>+800 unit/integration tests</strong> (JUnit 5, Mockito, Spring Boot Test, Karma & Jasmine) and <strong>+10 E2E flows (Cypress)</strong> to ensure zero regression.</li>
 </ul>
-
-
 
 <p>
   <a href="https://github.com/agussantinelli/Sysacad-Next-FrontEnd" target="_blank">🔗 Sysacad Next – FrontEnd</a>   •
@@ -234,6 +233,27 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <p>
   <a href="https://github.com/agussantinelli/VUELTA-F1NAL" target="_blank">🔗 VUELTA F1NAL</a>
+</p>
+
+---
+
+### 🐙 GitData – GitHub Developer Intelligence Platform
+**(Work in progress – Independent group project)**
+<p>
+  A full-stack analytical engine that transforms a raw GitHub profile into an interactive <strong>"Technical Sheet"</strong> for developers. GitData goes beyond listing repositories to narrate a developer's technical evolution through data-driven visualizations and algorithmic curation, enabling recruiters and peers to understand not just <em>what</em> was built, but <em>how</em> and <em>when</em> technical skills were developed. It interprets raw GitHub API data into structured, visually-rich developer intelligence.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack:</strong> Vue 3 (Vite + TypeScript), NestJS (Node.js), PrimeVue, Pinia, Apache ECharts, SCSS (Neon Theme) & Redis.</li>
+  <li>🏗 <strong>Architecture:</strong> Strict UI/logic separation (Composables / Services / Stores) on the frontend; Clean Architecture backend with Domain, Use-Cases, and Infrastructure layers.</li>
+  <li>⚡ <strong>Core Features:</strong> "Radar de ADN" técnico for language profiling, algorithmic "Jewel Project" detection (The Big One, The Active One, The Hidden Gem), and a visual contribution timeline.</li>
+  <li>🔍 <strong>Advanced UX:</strong> Smart-Predict real-time search, side-by-side profile comparator, exportable Dev-Card for professional networks, and a "Code Cemetery" section for inactive repositories.</li>
+  <li>🛡️ <strong>Infrastructure:</strong> Multi-layer Redis + In-Memory caching to mitigate GitHub API Rate Limits, Zod schema validation, integrated Swagger/OpenAPI documentation, and a Vitest testing suite.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank">🔗 GitData – FrontEnd</a>   •
+  <a href="https://github.com/agussantinelli/GitData-BackEnd" target="_blank">🔗 GitData – BackEnd</a>
 </p>
 <hr />
 
