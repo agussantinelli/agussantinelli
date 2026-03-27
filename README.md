@@ -246,7 +246,7 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 <ul>
   <li>🛠 <strong>Stack:</strong> Vue 3 (Vite + TypeScript), NestJS (Node.js), PrimeVue, Pinia, Apache ECharts, SCSS (Neon Theme) & Redis.</li>
   <li>🏗 <strong>Architecture:</strong> Strict UI/logic separation (Composables / Services / Stores) on the frontend; Clean Architecture backend with Domain, Use-Cases, and Infrastructure layers.</li>
-  <li>⚡ <strong>Core Features:</strong> "Radar de ADN" técnico for language profiling, algorithmic "Jewel Project" detection (The Big One, The Active One, The Hidden Gem), and a visual contribution timeline.</li>
+  <li>⚡ <strong>Core Features:</strong> Technical profile analysis for language profiling, algorithmic "Jewel Project" detection (The Big One, The Active One, The Hidden Gem), and a visual contribution timeline.</li>
   <li>🔍 <strong>Advanced UX:</strong> Smart-Predict real-time search, side-by-side profile comparator, exportable Dev-Card for professional networks, and a "Code Cemetery" section for inactive repositories.</li>
   <li>🛡️ <strong>Infrastructure:</strong> Multi-layer Redis + In-Memory caching to mitigate GitHub API Rate Limits, Zod schema validation, integrated Swagger/OpenAPI documentation, and a Vitest testing suite.</li>
 </ul>
