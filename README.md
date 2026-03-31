@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About me
 
-- 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Entering 4th year in 2026).
+- 🎓 **Information Systems Engineering student** at **UTN-FRRO** (Currently in 4th year).
 - 🌍 Based in **Rosario, Argentina**.
 - 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
 - ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright**.
