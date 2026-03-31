@@ -31,16 +31,16 @@
 - ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright** (Most critical and mission-critical repositories are maintained as **Private**).
 - 💬 Comfortable navigating the full stack—from **TypeScript** (React, Angular, Astro) and **React Native** to **.NET**, **Java (Spring Boot)**, and high-performance **Node.js** environments.
 - 🚀 **Strategic focus areas:**
-  - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem (Web & Desktop) to achieve market transparency and multi-currency asset consolidation.
-  - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
-  - 🚗 **Urban Mobility & IoT:** Developing scalable, real-time geolocation solutions for smart parking with **EstacionAR**.
-  - 🎫 **Event Ticketing & Scalability:** Crafting high-demand marketplaces with secure transaction handling via **TicketApp**.
-  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture capable of adapting its UI and business logic to any commercial model (Physical, Services, or Digital).
-  - 🛒 **Retail & Enterprise Inventory:** Developing high-precision synchronization systems for high-volume retailers, focusing on stock integrity and cross-platform management with **BuyJugador** and **ImpulsaMe**.
-  - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance statistics platform designed for real-time sports data visualization and historical tracking.
-  - 🏎️ **Predictive Analytics & Motorsport Data:** Engineering **VUELTA F1NAL**, an advanced Formula 1 ecosystem that synchronizes decades of historical records with real-time telemetry and a high-fidelity prediction engine for race outcomes.
-  - 📝 **Personal Academic Management:** Streamlining student life with automated grade tracking and performance visualization using **GradeSync**.
-  - 🐙 **Developer Intelligence & GitHub Analytics:** Transforming raw GitHub profiles into interactive "Technical Sheets" through data visualization and algorithmic curation with **GitData**.
+  - 💹 **FinTech & Wealth Management:** Architecting the **FinanzApp** ecosystem (Web & Desktop) to resolve market fragmentation through real-time multi-currency consolidation and asset transparency.
+  - 🎓 **Academic Infrastructure:** Re-engineering university management systems into high-scale, student-centric platforms designed to eliminate bureaucratic friction with **Sysacad Next**.
+  - 🚗 **Urban Mobility & Geolocation:** Developing scalable, low-latency parking ecosystems that synchronize city infrastructure with real-time driver telemetry via **EstacionAR**.
+  - 🎫 **Event Ticketing & High-Demand Sales:** Crafting robust transactional engines capable of handling high-concurrency ticketing flows and secure payment processing with **TicketApp**.
+  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture designed for structural adaptation across any commercial model (Physical, Services, or Digital).
+  - 🛒 **Retail & Enterprise Inventory:** Ensuring stock integrity through high-precision synchronization and multi-platform management for retail leaders with **BuyJugador** and **ImpulsaMe**.
+  - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance engine for real-time statistical visualization and historical data synthesis.
+  - 🏎️ **Predictive Motorsport Data:** Synchronizing decades of historical racing records with real-time telemetry to power high-fidelity outcome prediction engines in **VUELTA F1NAL**.
+  - 📝 **Student Productivity Ecosystems:** Streamlining academic life through automated performance tracking and data-driven insights with the **GradeSync** ecosystem.
+  - 🐙 **Developer Intelligence Analytics:** Transforming raw GitHub datasets into interactive "Technical Sheets" through algorithmic curation and visual storytelling with **GitData**.
 
 <hr />
 
