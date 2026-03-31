@@ -29,7 +29,7 @@
 - 🌍 Based in **Rosario, Argentina**.
 - 🧠 I specialize in building **high-performance systems** using **Clean Architecture**. My goal is to transform complex business requirements into scalable, mission-critical software.
 - ⚖️ **Licensing & Intellectual Property:** I apply strategic licensing to my work. My academic and community tools are shared under **GNU GPLv3** to ensure they remain open, while my proprietary architectures are protected by **Strict Copyright** (Most critical and mission-critical repositories are maintained as **Private**).
-- 💬 Comfortable navigating the full stack—from **TypeScript** (React, Angular, Astro) and **React Native** to **.NET**, **Java (Spring Boot)**, and high-performance **Node.js** environments.
+- 💬 Comfortable navigating the full stack from **TypeScript** (React, Angular, Astro) and **React Native** to **.NET**, **Java (Spring Boot)**, and high-performance **Node.js** environments.
 - 🚀 **Strategic focus areas:**
   - 💹 **FinTech & Wealth Management:** Engineering the **FinanzApp** ecosystem (Web & Desktop) to achieve market transparency and multi-currency asset consolidation.
   - 🎓 **Academic Infrastructure:** Modernizing university management systems through high-scale reengineering with **Sysacad Next**.
