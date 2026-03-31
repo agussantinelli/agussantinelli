@@ -35,7 +35,7 @@
   - 🎓 **Academic Infrastructure:** Re-engineering university management systems into high-scale, student-centric platforms designed to eliminate bureaucratic friction with **Sysacad Next**.
   - 🚗 **Urban Mobility & Geolocation:** Developing scalable, low-latency parking ecosystems that synchronize city infrastructure with real-time driver telemetry via **EstacionAR**.
   - 🎫 **Event Ticketing & High-Demand Sales:** Crafting robust transactional engines capable of handling high-concurrency ticketing flows and secure payment processing with **TicketApp**.
-  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core—a metamorphic architecture designed for structural adaptation across any commercial model (Physical, Services, or Digital).
+  - 🌀 **Polymorphic E-commerce:** Engineering the **MarketFlex** core - a metamorphic architecture designed for structural adaptation across any commercial model (Physical, Services, or Digital).
   - 🛒 **Retail & Enterprise Inventory:** Ensuring stock integrity through high-precision synchronization and multi-platform management for retail leaders with **BuyJugador** and **ImpulsaMe**.
   - 🏀 **Big Data & Sports Analytics:** Building **Promiedos NBA**, a high-performance engine for real-time statistical visualization and historical data synthesis.
   - 🏎️ **Predictive Motorsport Data:** Synchronizing decades of historical racing records with real-time telemetry to power high-fidelity outcome prediction engines in **VUELTA F1NAL**.
