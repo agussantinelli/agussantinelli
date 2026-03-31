@@ -199,15 +199,15 @@
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
 **(Work in progress - Independent group project)**
 <p>
-  A high-end urban mobility platform transforming how drivers find and reserve parking in high-density urban areas. This mobile-first ecosystem digitalizes traditional parking operations, eliminating physical friction through real-time geocoding and seamless payment integration. Designed to optimize urban flow, the platform connects parking providers with drivers through a highly responsive interface, ensuring that the process of finding and paying for parking is as frictionless as possible in modern Argentine cities.
+  A high-end, mobile-first parking reservation platform transforming how drivers find and reserve parking in high-density urban areas. This ecosystem digitalizes traditional parking operations, eliminating physical friction through real-time geocoding and seamless payment integration. Designed to optimize urban flow in the Argentine market, the platform connects parking providers with drivers through a highly responsive interface, ensuring a frictionless experience for both parties.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> React Native 0.81+ (Expo 54 & TypeScript), Node.js 22+ (Express), Prisma 5.21+ (PostgreSQL).</li>
-  <li>🏗 <strong>Architecture:</strong> Strict Clean Architecture with Feature-based modularity managed within a Turborepo monorepo for shared code isolation.</li>
-  <li>⚡ <strong>Core Features:</strong> Dynamic parking reservation system, real-time availability tracking, and automated billing workflows for parking providers.</li>
-  <li>🗺️ <strong>Integrations:</strong> Advanced Google Maps API integration for geocoding and navigation, and MercadoPago integration for secure national payments.</li>
-  <li>🛡️ <strong>Infrastructure:</strong> SecureStore hardware-backed encryption for sensitive mobile data, RBAC for administrative control, and optimized Socket.io for real-time updates.</li>
+  <li>🛠 <strong>Stack:</strong> React Native 0.76+ (Expo 52 & TypeScript), Node.js 22+ (Express 5.2), Prisma 5.21+ (PostgreSQL 16).</li>
+  <li>🏗 <strong>Architecture:</strong> Turborepo-managed Monorepo following Clean Architecture and Feature-based modularity with a shared type-safe contract.</li>
+  <li>⚡ <strong>Core Features:</strong> Real-time parking reservations with QR-based check-in, automated expiration monitoring via Cron Jobs, and integrated Push/Email notifications.</li>
+  <li>🗺️ <strong>Maps & Geolocation:</strong> High-performance hybrid visualizer using WebView + Leaflet (OSM), price-aware markers, visual geofencing, and server-side Nominatim geocoding.</li>
+  <li>🛡️ <strong>Security & Logistics:</strong> Dual-Auth (JWT & Google OAuth), hardware-backed encryption (SecureStore), reCAPTCHA v2 protection, and MercadoPago integration.</li>
 </ul>
 
 <p>
