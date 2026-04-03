@@ -198,16 +198,17 @@
 
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
 **(Work in progress - Independent group project)**
+
 <p>
   A high-end, mobile-first parking reservation platform transforming how drivers find and reserve parking in high-density urban areas. This ecosystem digitalizes traditional parking operations, eliminating physical friction through real-time geocoding and seamless payment integration. Designed to optimize urban flow in the Argentine market, the platform connects parking providers with drivers through a highly responsive interface, ensuring a frictionless experience for both parties.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> React Native 0.76+ (Expo 52 & TypeScript), Node.js 22+ (Express 5.2), Prisma 5.21+ (PostgreSQL 16).</li>
-  <li>🏗 <strong>Architecture:</strong> Turborepo-managed Monorepo following Clean Architecture and Feature-based modularity with a shared type-safe contract.</li>
-  <li>⚡ <strong>Core Features:</strong> Real-time parking reservations with QR-based check-in, automated expiration monitoring via Cron Jobs, and integrated Push/Email notifications.</li>
-  <li>🗺️ <strong>Maps & Geolocation:</strong> High-performance hybrid visualizer using WebView + Leaflet (OSM), price-aware markers, visual geofencing, and server-side Nominatim geocoding.</li>
-  <li>🛡️ <strong>Security & Logistics:</strong> Dual-Auth (JWT & Google OAuth), hardware-backed encryption (SecureStore), reCAPTCHA v2 protection, and MercadoPago integration.</li>
+  <li>🛠 <strong>Stack:</strong> Turborepo-managed Monorepo with React Native 0.76 (Expo 52), Node.js 22 (Express 5.2), and Prisma 5.21 (PostgreSQL 16).</li>
+  <li>🏗 <strong>Architecture & Logic:</strong> 11-layer Modular Clean Architecture with Feature-based design, automated Cron Jobs for expiration monitoring, and a shared type-safe contract via Zod.</li>
+  <li>🗺️ <strong>Maps & Geolocation:</strong> High-performance hybrid visualizer using WebView + Leaflet (OSM), price-aware dynamic markers, visual geofencing, and server-side Nominatim geocoding.</li>
+  <li>🛡️ <strong>Security & Logistics:</strong> Dual-Auth (JWT & Google OAuth 2.0), hardware-backed encryption (SecureStore), reCAPTCHA v2 bot protection, and native MercadoPago integration.</li>
+  <li>🧪 <strong>Testing & Quality:</strong> Zero-regression strategy with +1000 tests using Vitest/Supertest (Backend) and Jest/RNTL (Frontend), including automated Swagger/OpenAPI documentation testing.</li>
 </ul>
 
 <p>
