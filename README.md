@@ -208,7 +208,7 @@
   <li>🏗 <strong>Architecture & Logic:</strong> 11-layer Modular Clean Architecture with Feature-based design, automated Cron Jobs for expiration monitoring, and a shared type-safe contract via Zod.</li>
   <li>🗺️ <strong>Maps & Geolocation:</strong> High-performance hybrid visualizer using WebView + Leaflet (OSM), price-aware dynamic markers, visual geofencing, and server-side Nominatim geocoding.</li>
   <li>🛡️ <strong>Security & Logistics:</strong> Dual-Auth (JWT & Google OAuth 2.0), hardware-backed encryption (SecureStore), reCAPTCHA v2 bot protection, and native MercadoPago integration.</li>
-  <li>🧪 <strong>Testing & Quality:</strong> Zero-regression strategy with +1500 tests using Vitest/Supertest (Backend) and Jest/RNTL (Frontend), including automated Swagger/OpenAPI documentation testing.</li>
+  <li>🧪 <strong>Testing & Quality:</strong> Zero-regression strategy with +1600 tests using Vitest/Supertest (Backend) and Jest/RNTL (Frontend), including automated Swagger/OpenAPI documentation testing.</li>
 </ul>
 
 <p>
