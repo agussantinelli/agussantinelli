@@ -254,7 +254,7 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <p>
   <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank">🔗 GitData – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/GitData-BackEnd" target="_blank">🔗 GitData – BackEnd</a>
+  <a href="https://github.com/agussantinelli/GitData-API" target="_blank">🔗 GitData – BackEnd</a>
 </p>
 <hr />
 
