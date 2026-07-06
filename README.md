@@ -196,6 +196,27 @@
 
 <hr />
 
+### 🎮 Ahorcado – TDD & Clean Architecture Case Study
+**(Academic group project – UTN FRRO)**
+<p>
+  A modern, interactive, and reactive version of the classic Hangman game, conceived as an integrative university project to showcase rigorous software engineering practices. While the application itself is simple, it serves as a comprehensive case study in the strict application of <strong>Double Loop TDD (Test-Driven Development)</strong>, Behavior-Driven Development (BDD), and Clean Architecture, ensuring that every line of code satisfies a real user need and is fully testable in memory.
+</p>
+
+<ul>
+  <li>🛠 <strong>Methodology Focus:</strong> Strict adherence to Double Loop TDD (ATDD + Unit TDD) with a "no test, no code" policy, Semantic Commits, and role rotation during development.</li>
+  <li>🏗 <strong>Architecture:</strong> Pure Clean Architecture with a strict decoupling of the UI (Presentation Layer) from the Domain Layer, making the core business rules 100% testable without DOM dependencies.</li>
+  <li>🧪 <strong>Testing Ecosystem:</strong> BDD specifications written in Gherkin, automated End-to-End (E2E) testing with Playwright, and lightning-fast unit tests using Vitest.</li>
+  <li>⚙️ <strong>CI/CD & Quality:</strong> Fully automated CI/CD pipeline orchestrated via GitHub Actions, integrating SonarQube for static code analysis and Codecov for rigorous test coverage metrics, deploying automatically to GitHub Pages.</li>
+  <li>💻 <strong>Stack:</strong> TypeScript, Vanilla HTML5/CSS3 (SVG animations), Vite, and pnpm.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/martin-ratti/TP-Ahorcado" target="_blank">🔗 Ahorcado – Main Repository</a>   •
+  <a href="https://martin-ratti.github.io/TP-Ahorcado" target="_blank">🔗 Live Demo</a>
+</p>
+
+<hr />
+
 ### 🚗 EstacionAR – Smart Parking Ecosystem  
 **(Work in progress - Independent group project)**
 <p>
