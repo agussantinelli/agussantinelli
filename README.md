@@ -196,10 +196,10 @@
 
 <hr />
 
-### 🎮 Ahorcado – TDD & Clean Architecture Case Study
+### 🎮 Ahorcado – Applied TDD & Clean Architecture
 **(Academic group project – UTN FRRO)**
 <p>
-  A modern, interactive, and reactive version of the classic Hangman game, conceived as an integrative university project to showcase rigorous software engineering practices. While the application itself is simple, it serves as a comprehensive case study in the strict application of <strong>Double Loop TDD (Test-Driven Development)</strong>, Behavior-Driven Development (BDD), and Clean Architecture, ensuring that every line of code satisfies a real user need and is fully testable in memory.
+  A modern, interactive, and reactive version of the classic Hangman game, conceived as an integrative university project to showcase rigorous software engineering practices. While the application itself is simple, it was built as a practical implementation of <strong>Double Loop TDD (Test-Driven Development)</strong>, Behavior-Driven Development (BDD), and Clean Architecture, ensuring that every line of code satisfies a real user need and is fully testable in memory.
 </p>
 
 <ul>
