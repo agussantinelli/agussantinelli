@@ -66,7 +66,7 @@
 - **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
 
 ### 🔄 Methodologies & Practices
-- **Software Engineering:** Double Loop TDD, BDD (Behavior-Driven Development), Clean Code principles
+- **Software Engineering:** TDD (Test-Driven Development), ATDD (Acceptance Test-Driven Development), BDD (Behavior-Driven Development), Clean Code principles
 - **Agile & Workflows:** Kanban, Semantic Commits, Role Rotation, CI/CD pipelines
 
 <hr />
