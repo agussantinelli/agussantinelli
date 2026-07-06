@@ -65,6 +65,10 @@
 - **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, MSW (Semantic Mocking), Faker.js, Karma, Jasmine, xUnit, JUnit 5, Mockito
 - **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
 
+### 🔄 Methodologies & Practices
+- **Software Engineering:** Double Loop TDD, BDD (Behavior-Driven Development), Clean Code principles
+- **Agile & Workflows:** Kanban, Semantic Commits, Role Rotation, CI/CD pipelines
+
 <hr />
 
 ## 🧩 Highlighted projects
