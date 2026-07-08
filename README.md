@@ -263,8 +263,8 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 ---
 
-### 🐙 GitData – GitHub Developer Intelligence Platform
-**(Independent API Project)**
+### 🧬 GitData – GitHub Profile Analytics & SVG Engine
+**(Independent API & Interactive Widgets Ecosystem)**
 <p>
   A powerful analytical engine that goes beyond simple statistics, acting as the ultimate tool to extract a developer's true <strong>"Technical DNA"</strong> from GitHub. It processes deep contribution history using an advanced mathematical inference engine to reveal specialization patterns, coding habits (like Code-Life Balance and time-of-day activity), and project quality. The platform features an impeccable Showcase of 13 interactive "Super Mini Layouts" ready to be embedded anywhere, and dynamically generates pixel-perfect SVG widgets via its backend API.
 </p>
