@@ -50,20 +50,21 @@
 - **TypeScript**, **JavaScript**, **C#**, **Java**, **SQL**, **HTML**, **CSS**
 
 ### ⚙️ Backend & Architecture
-- **Node.js**, **Hono**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
-- **Architecture:** Clean Architecture, Feature-Based Modular Monolith, Layered Design, 7-File Blueprint, RESTful APIs
+- **Node.js**, **Fastify**, **Hono**, **Express**, **ASP.NET Core**, **Spring Boot**, **Jakarta EE**
+- **Architecture:** Clean Architecture, Feature-Based Modular Monolith, Layered Design, 7-File Blueprint, REST & GraphQL APIs
 - **Logic & Validation:** Zod (Strict Schema Validation), JWT (Dual-Token Auth), OpenAPI (Swagger 3.0)
 
 ### 💻 Frontend, Mobile & Desktop
 - **React**, **Astro**, **Next.js**, **Angular**, **React Native**, **Blazor WASM**, **Windows Forms**
-- **UI & State:** Nanostores (Atomic), Zustand, Material UI, CSS Modules, Sileo (Gooey Notifications)
+- **UI & State:** Nanostores (Atomic), Zustand, Material UI, CSS Modules, Vanilla CSS (Glassmorphism), Sileo (Gooey Notifications)
 - **Core Strategy:** Islands Architecture (Selective Hydration), Mobile-First, SEO-First
 
 ### 🗄️ Databases & Infrastructure
 - **PostgreSQL**, **MySQL**, **SQL Server**, **Cloudinary** (Asset Management)
 - **ORM / Tooling:** Prisma, Drizzle ORM, EF Core, Hibernate, ADO.NET
-- **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, MSW (Semantic Mocking), Faker.js, Karma, Jasmine, xUnit, JUnit 5, Mockito
-- **DevOps & VCS:** GitHub Actions (CI/CD), Docker, pnpm, Maven
+- **Testing Ecosystem:** Playwright (E2E), Cypress (E2E), Vitest, React Testing Library, MSW (Semantic Mocking), Faker.js, Karma, Jasmine, xUnit, JUnit 5, Mockito
+- **DevOps & Cloud:** GitHub Actions (CI/CD), Vercel, Railway, Docker, pnpm Workspaces, Maven
+- **Quality & Security:** SonarQube / SonarCloud (Quality Gates), Helmet, Rate Limiting
 
 ### 🔄 Methodologies & Practices
 - **Software Engineering:** TDD (Test-Driven Development), ATDD (Acceptance Test-Driven Development), BDD (Behavior-Driven Development), Clean Code principles
