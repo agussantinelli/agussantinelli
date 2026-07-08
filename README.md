@@ -264,22 +264,22 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 ---
 
 ### 🐙 GitData – GitHub Developer Intelligence Platform
-**(Work in progress – Independent group project)**
+**(Independent API Project)**
 <p>
-  A full-stack analytical engine that transforms a raw GitHub profile into an interactive <strong>"Technical Sheet"</strong> for developers. GitData goes beyond listing repositories to narrate a developer's technical evolution through data-driven visualizations and algorithmic curation, enabling recruiters and peers to understand not just <em>what</em> was built, but <em>how</em> and <em>when</em> technical skills were developed. It interprets raw GitHub API data into structured, visually-rich developer intelligence.
+  A powerful analytical engine that goes beyond simple statistics, acting as the ultimate tool to extract a developer's true <strong>"Technical DNA"</strong> from GitHub. It processes deep contribution history using an advanced mathematical inference engine to reveal specialization patterns, coding habits (like Code-Life Balance and time-of-day activity), and project quality. The platform features an impeccable Showcase of 13 interactive "Super Mini Layouts" ready to be embedded anywhere, and dynamically generates pixel-perfect SVG widgets via its backend API.
 </p>
 
 <ul>
-  <li>🛠 <strong>Stack:</strong> Vue 3 (Vite + TypeScript), NestJS (Node.js), PrimeVue, Pinia, Apache ECharts, SCSS (Neon Theme) & Redis.</li>
-  <li>🏗 <strong>Architecture:</strong> Strict UI/logic separation (Composables / Services / Stores) on the frontend; Clean Architecture backend with Domain, Use-Cases, and Infrastructure layers.</li>
-  <li>⚡ <strong>Core Features:</strong> Technical profile analysis for language profiling, algorithmic "Jewel Project" detection (The Big One, The Active One, The Hidden Gem), and a visual contribution timeline.</li>
-  <li>🔍 <strong>Advanced UX:</strong> Smart-Predict real-time search, side-by-side profile comparator, exportable Dev-Card for professional networks, and a "Code Cemetery" section for inactive repositories.</li>
-  <li>🛡️ <strong>Infrastructure:</strong> Multi-layer Redis + In-Memory caching to mitigate GitHub API Rate Limits, Zod schema validation, integrated Swagger/OpenAPI documentation, and a Vitest testing suite.</li>
+  <li>🛠 <strong>Stack & Ecosystem:</strong> React 19 (Vite), Fastify (Node.js), TypeScript, pnpm Workspaces, and Vanilla CSS (Glassmorphism).</li>
+  <li>🏗 <strong>Architecture:</strong> High-performance Monorepo combining a modular Fastify API backend with a lightweight, autonomous React frontend. Features an advanced hybrid data fetching strategy using Octokit (GraphQL + REST).</li>
+  <li>⚡ <strong>Dynamic Core:</strong> Real-time on-the-fly SVG generation engine with TTLCache, enabling users to embed complex dashboards directly into any Markdown file without JavaScript.</li>
+  <li>🎨 <strong>UI/UX:</strong> Mobile-first pure CSS design featuring native Multi-Theme support (Dark/Light) and hot-swappable i18n (5 languages), with all components rigorously optimized.</li>
+  <li>🛡️ <strong>Quality & Security:</strong> Hardened API (Helmet, Rate Limiting), strict zero-regression strategy with 100% test coverage (Vitest + React Testing Library), CI/CD pipelines with SonarCloud Quality Gates, and seamless deployments to Vercel (Edge) and Railway.</li>
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank">🔗 GitData – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/GitData-API" target="_blank">🔗 GitData – BackEnd</a>
+  <a href="https://github.com/agussantinelli/GitData" target="_blank">🔗 GitData – Main Repository</a>   •
+  <a href="https://git-data-web.vercel.app/" target="_blank">✨ Live Showcase</a>
 </p>
 <hr />
 
