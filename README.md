@@ -345,25 +345,33 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 
 <hr />
 
-## 📊 GitHub Stats & Activity
+## 📊 Technical DNA & Analytics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=agussantinelli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=false&rank_icon=github&show=prs,commits&cache_seconds=0" width="410px" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agussantinelli&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&langs_count=8&cache_seconds=0" width="315px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agussantinelli&theme=tokyo-night&area=true&hide_border=true&cache_seconds=0" width="735px" alt="Activity Graph" />
-  
+  <p><i>All the following analytics are generated in real-time by <strong>GitData</strong>, my own mathematical inference engine.</i></p>
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agussantinelli&theme=tokyonight&hide_border=true&cache_seconds=0" width="735px" alt="GitHub Streak" />
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/global-stats?username=agussantinelli&theme=dark&lang=en" alt="Global Stats" />
+  &nbsp;&nbsp;
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/top-languages?username=agussantinelli&theme=dark&lang=en" alt="Top Languages" />
+  <br/><br/>
+
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/code-frequency?username=agussantinelli&theme=dark&lang=en" alt="Code Frequency" />
+  <br/><br/>
+
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/categorized-projects?username=agussantinelli&theme=dark&lang=en" alt="Categorized Projects" />
+  &nbsp;&nbsp;
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/tech-radar?username=agussantinelli&theme=dark&lang=en" alt="Tech Radar" />
+  <br/><br/>
+
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/hourly-frequency?username=agussantinelli&theme=dark&lang=en" alt="Hourly Frequency" />
+  &nbsp;&nbsp;
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/time-of-day?username=agussantinelli&theme=dark&lang=en" alt="Time of Day" />
+  <br/><br/>
+
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/code-life-balance?username=agussantinelli&theme=dark&lang=en" alt="Code Life Balance" />
+  &nbsp;&nbsp;
+  <img src="https://gitdataapi-production.up.railway.app/api/svg/milestones?username=agussantinelli&theme=dark&lang=en" alt="Milestones" />
 </div>
 
 <hr />
