@@ -177,7 +177,7 @@
 
 <p>
   <a href="https://github.com/agussantinelli/GitData" target="_blank">🔗 GitData – Main Repository</a>   •
-  <a href="https://git-data-web.vercel.app/" target="_blank">✨ Live Showcase</a>
+  <a href="https://git-data-web.vercel.app" target="_blank">✨ Live Showcase</a>
 </p>
 <hr />
 
