@@ -160,6 +160,26 @@
 
 <hr />
 
+### 🧬 GitData – GitHub Profile Analytics & SVG Engine
+**(Independent API & Interactive Widgets Ecosystem)**
+<p>
+  A powerful analytical engine that goes beyond simple statistics, acting as the ultimate tool to extract a developer's true <strong>"Technical DNA"</strong> from GitHub. It processes deep contribution history using an advanced mathematical inference engine to reveal specialization patterns, coding habits (like Code-Life Balance and time-of-day activity), and project quality. The platform features an impeccable Showcase of 13 interactive "Super Mini Layouts" ready to be embedded anywhere, and dynamically generates pixel-perfect SVG widgets via its backend API.
+</p>
+
+<ul>
+  <li>🛠 <strong>Stack & Ecosystem:</strong> React 19 (Vite), Fastify (Node.js), TypeScript, pnpm Workspaces, and Vanilla CSS (Glassmorphism).</li>
+  <li>🏗 <strong>Architecture:</strong> High-performance Monorepo combining a modular Fastify API backend with a lightweight, autonomous React frontend. Features an advanced hybrid data fetching strategy using Octokit (GraphQL + REST).</li>
+  <li>⚡ <strong>Dynamic Core:</strong> Real-time on-the-fly SVG generation engine with TTLCache, enabling users to embed complex dashboards directly into any Markdown file without JavaScript.</li>
+  <li>🎨 <strong>UI/UX:</strong> Mobile-first pure CSS design featuring native Multi-Theme support (Dark/Light) and hot-swappable i18n (5 languages), with all components rigorously optimized.</li>
+  <li>🛡️ <strong>Quality & Security:</strong> Hardened API (Helmet, Rate Limiting), strict zero-regression strategy with 100% test coverage (Vitest + React Testing Library), CI/CD pipelines with SonarCloud Quality Gates, and seamless deployments to Vercel (Edge) and Railway.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/agussantinelli/GitData" target="_blank">🔗 GitData – Main Repository</a>   •
+  <a href="https://git-data-web.vercel.app/" target="_blank">✨ Live Showcase</a>
+</p>
+<hr />
+
 ### 🎮 BuyJugador – Gaming Inventory & Sales System  
 **(Academic group project – UTN FRRO)**
 <p>
@@ -262,26 +282,6 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 </p>
 
 ---
-
-### 🧬 GitData – GitHub Profile Analytics & SVG Engine
-**(Independent API & Interactive Widgets Ecosystem)**
-<p>
-  A powerful analytical engine that goes beyond simple statistics, acting as the ultimate tool to extract a developer's true <strong>"Technical DNA"</strong> from GitHub. It processes deep contribution history using an advanced mathematical inference engine to reveal specialization patterns, coding habits (like Code-Life Balance and time-of-day activity), and project quality. The platform features an impeccable Showcase of 13 interactive "Super Mini Layouts" ready to be embedded anywhere, and dynamically generates pixel-perfect SVG widgets via its backend API.
-</p>
-
-<ul>
-  <li>🛠 <strong>Stack & Ecosystem:</strong> React 19 (Vite), Fastify (Node.js), TypeScript, pnpm Workspaces, and Vanilla CSS (Glassmorphism).</li>
-  <li>🏗 <strong>Architecture:</strong> High-performance Monorepo combining a modular Fastify API backend with a lightweight, autonomous React frontend. Features an advanced hybrid data fetching strategy using Octokit (GraphQL + REST).</li>
-  <li>⚡ <strong>Dynamic Core:</strong> Real-time on-the-fly SVG generation engine with TTLCache, enabling users to embed complex dashboards directly into any Markdown file without JavaScript.</li>
-  <li>🎨 <strong>UI/UX:</strong> Mobile-first pure CSS design featuring native Multi-Theme support (Dark/Light) and hot-swappable i18n (5 languages), with all components rigorously optimized.</li>
-  <li>🛡️ <strong>Quality & Security:</strong> Hardened API (Helmet, Rate Limiting), strict zero-regression strategy with 100% test coverage (Vitest + React Testing Library), CI/CD pipelines with SonarCloud Quality Gates, and seamless deployments to Vercel (Edge) and Railway.</li>
-</ul>
-
-<p>
-  <a href="https://github.com/agussantinelli/GitData" target="_blank">🔗 GitData – Main Repository</a>   •
-  <a href="https://git-data-web.vercel.app/" target="_blank">✨ Live Showcase</a>
-</p>
-<hr />
 
 ### 🏀 Promiedos NBA – Advanced Statistics Platform  
 **(Work in progress - Independent personal project)**
