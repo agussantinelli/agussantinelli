@@ -319,7 +319,7 @@ The first modern Formula 1 statistics platform designed to centralize live race 
 </ul>
 
 <p>
-  <a href="https://github.com/agussantinelli/FinanzApp-Desktop" target="_blank">🔗 FinanzApp Desktop – Main Repository</a>
+  <em>This repository is currently maintained privately.</em>
 </p>
 
 <hr />
