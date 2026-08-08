@@ -92,8 +92,7 @@
 
 
 <p>
-  <a href="https://github.com/agussantinelli/FinanzApp-FrontEnd" target="_blank">🔗 FinanzApp – FrontEnd</a>   •
-  <a href="https://github.com/agussantinelli/FinanzApp-BackEnd" target="_blank">🔗 FinanzApp – BackEnd</a>
+  <em>This repository is currently maintained privately.</em>
 </p>
 
 <hr />
